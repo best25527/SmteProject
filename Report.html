@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>แจ้งเหตุภัยน้ำท่วม</title>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  background: linear-gradient(180deg, #e3f2fd, #f9fbff);
+}
+
+.container {
+  max-width: 520px;
+  margin: auto;
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 24px;
+  box-shadow: 0 15px 40px rgba(25,118,210,0.15);
+}
+
+h2 {
+  text-align: center;
+  color: #1976d2;
+  margin-bottom: 20px;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 14px 16px;
+  margin-top: 12px;
+  border-radius: 14px;
+  border: 1.5px solid #d0d7e2;
+  font-size: 15px;
+  transition: 0.2s;
+  background: #fdfefe;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: #1976d2;
+  box-shadow: 0 0 0 3px rgba(25,118,210,0.15);
+}
+
+textarea {
+  resize: none;
+  min-height: 120px;
+}
+
+button {
+  width: 100%;
+  margin-top: 22px;
+  padding: 16px;
+  border-radius: 16px;
+  border: none;
+  background: linear-gradient(135deg, #1976d2, #42a5f5);
+  color: white;
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 20px rgba(25,118,210,0.35);
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+.footer-note {
+  text-align: center;
+  margin-top: 14px;
+  font-size: 13px;
+  color: #789;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+  <h2>🚨 แจ้งเหตุภัยน้ำท่วม</h2>
+
+  <input id="name" placeholder="ชื่อ - นามสกุล">
+  <input id="phone" placeholder="เบอร์โทรศัพท์">
+  <input id="location" placeholder="พื้นที่ / ที่อยู่ปัจจุบัน">
+
+  <select id="helpType">
+    <option value="">ต้องการความช่วยเหลือด้านใด</option>
+    <option>อาหาร / น้ำดื่ม</option>
+    <option>อพยพ</option>
+    <option>การแพทย์</option>
+    <option>อื่น ๆ</option>
+  </select>
+
+  <textarea id="description" placeholder="อธิบายสถานการณ์เพิ่มเติม"></textarea>
+
+  <button type="button" onclick="sendData()">
+    ส่งข้อมูลขอความช่วยเหลือ
+  </button>
+
+  <div class="footer-note">
+    ข้อมูลจะถูกส่งถึงเจ้าหน้าที่ทันที
+  </div>
+</div>
+  
+<script>
+const scriptURL = "https://script.google.com/macros/s/AKfycbyIzkEeR_RETfPGl2D5Tvd0JXA6aH5NPK9GilCNbghNQjyfSexIE95cJRbpjY8t-j5H0A/exec";
+
+async function sendData() {
+  const name = document.getElementById("name").value;
+  const phone = document.getElementById("phone").value;
+  const location = document.getElementById("location").value;
+  const helpType = document.getElementById("helpType").value;
+  const description = document.getElementById("description").value;
+
+  if (!name || !phone || !location || !helpType) {
+    alert("❌ กรุณากรอกข้อมูลให้ครบถ้วน");
+    return;
+  }
+
+  const button = document.querySelector("button");
+  const originalText = button.textContent;
+  button.textContent = "กำลังส่ง...";
+  button.disabled = true;
+
+  const data = { name, phone, location, helpType, description };
+
+  try {
+  await fetch(scriptURL, {
+    method: "POST",
+    mode: "no-cors",  
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify(data)
+  });
+
+  // With no-cors, we can't read the response.
+  // If no error thrown, assume success.
+  alert("✅ ส่งข้อมูลเรียบร้อยแล้ว");
+
+  document.getElementById("name").value = "";
+  document.getElementById("phone").value = "";
+  document.getElementById("location").value = "";
+  document.getElementById("helpType").value = "";
+  document.getElementById("description").value = "";
+
+} catch (err) {
+  console.error(err);
+  alert("❌ ส่งไม่สำเร็จ");
+} finally {
+    button.textContent = originalText;
+    button.disabled = false;
+  }
+}
+</script>
+
+</body>
+</html>
