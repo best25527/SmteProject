@@ -2,11 +2,14 @@ from flask import Flask, request
 from linebot import LineBotApi, WebhookHandler
 from linebot.models import MessageEvent, TextMessage, TextSendMessage, FlexSendMessage
 from linebot.exceptions import InvalidSignatureError
+from linebot.models import QuickReply, QuickReplyButton, MessageAction
 
 import json
 import os
 import re
 from datetime import datetime
+
+user_states = {}
 
 # ================= CONFIG =================
 CHANNEL_ACCESS_TOKEN = os.getenv("CHANNEL_ACCESS_TOKEN")
@@ -222,31 +225,89 @@ def callback():
     return "OK", 200
 
 
+
 @handler.add(MessageEvent, message=TextMessage)
 def handle_message(event):
-
+    user_id = event.source.user_id      # ดึง ID ประจำตัวของผู้ใช้
     user_text = event.message.text.strip()
-    print("User:", user_text)
+    print(f"User ({user_id}): {user_text}")
 
-    result = search_station(user_text)
+    # ดึงสถานะปัจจุบันของผู้ใช้ ถ้าไม่มีให้สถานะเริ่มต้นเป็น 'IDLE'
+    current_state = user_states.get(user_id, "IDLE")
 
-    if not result:
+    # ================= 1. ดักจับปุ่มเปิดระบบค้นหาจาก Rich Menu =================
+    if user_text == "เปิดระบบค้นหาสถานีน้ำ":
+        user_states[user_id] = "SEARCHING"  # เปลี่ยนสถานะเป็นกำลังค้นหา
+        
         line_bot_api.reply_message(
             event.reply_token,
-            TextSendMessage(text="❌ ไม่พบสถานีที่ค้นหา")
+            TextSendMessage(text="🔍 เปิดระบบค้นหา!\nกรุณาพิมพ์ชื่อสถานีน้ำที่คุณต้องการตรวจสอบ (ค้นหาได้ 1 ครั้ง)")
         )
         return
 
-    flex = build_station_flex(result)
+    # ================= 2. ทำงานเฉพาะตอนที่สถานะเป็น 'SEARCHING' เท่านั้น =================
+    if current_state == "SEARCHING":
+        result = search_station(user_text)
 
+        if not result:
+            # ถ้าพิมพ์ผิด บอทเตือน แต่ยังไม่ปิดระบบค้นหา ให้พิมพ์ใหม่ได้
+            line_bot_api.reply_message(
+                event.reply_token,
+                TextSendMessage(text="❌ ไม่พบสถานีที่ค้นหา กรุณาลองตรวจสอบชื่อสถานีแล้วพิมพ์ใหม่อีกครั้ง")
+            )
+            return
+
+        # หากค้นหาเจอ -> ดึงข้อมูลสำเร็จ -> ทำการปิดฟังก์ชันทันที (กลับไป IDLE)
+        user_states[user_id] = "IDLE"
+
+        flex = build_station_flex(result)
+        line_bot_api.reply_message(
+            event.reply_token,
+            [
+                FlexSendMessage(
+                    alt_text="สถานการณ์น้ำล่าสุด",
+                    contents=flex
+                ),
+                TextSendMessage(text="✅ ส่งข้อมูลเรียบร้อยและปิดระบบค้นหา\nหากต้องการค้นหาใหม่อีกครั้ง กรุณากดปุ่มเปิดระบบที่เมนูด้านล่าง")
+            ]
+        )
+        return
+
+    # --- ส่วนที่เพิ่มใหม่: สำหรับปุ่มคู่มือ ---
+    # ตรงเงื่อนไขเปิดคลังข้อมูล
+    if user_text == "เปิดคลังข้อมูลน้ำท่วม":
+        user_states[user_id] = "IDLE"
+        
+        # เพิ่มปุ่มให้ครบ 6 อันตามที่คุณทำใน Auto-response
+        quick_reply_buttons = QuickReply(
+            items=[
+                QuickReplyButton(action=MessageAction(label="แนวทางปฏิบัติขณะน้ำท่วม", text="แนวทางปฏิบัติขณะน้ำท่วม")),
+                QuickReplyButton(action=MessageAction(label="แนวทางปฏิบัติหลังน้ำท่วม", text="แนวทางปฏิบัติหลังน้ำท่วม")),
+                QuickReplyButton(action=MessageAction(label="แนวทางปฏิบัติก่อนน้ำท่วม", text="แนวทางปฏิบัติก่อนน้ำท่วม")),
+                QuickReplyButton(action=MessageAction(label="เบอร์ฉุกเฉิน", text="เบอร์ฉุกเฉิน")), # ตัวอย่างหัวข้อใหม่
+                QuickReplyButton(action=MessageAction(label="เช็คลิสต์ของที่เตรียม", text="เช็คลิสต์ของที่เตรียม")),  # ตัวอย่างหัวข้อใหม่
+                QuickReplyButton(action=MessageAction(label="โรคที่ควรระวัง", text="โรคที่ควรระวัง"))  # ตัวอย่างหัวข้อใหม่
+            ]
+        )
+        
+        line_bot_api.reply_message(
+            event.reply_token,
+            TextSendMessage(
+                text="📚 เลือกหัวข้อคู่มือที่คุณต้องการทราบ (มี 6 หัวข้อ):",
+                quick_reply=quick_reply_buttons
+            )
+        )
+        return
+
+    # และอย่าลืมเพิ่มตัวดักจับเพื่อให้ Python ไม่แย่ง LINE OA ตอบ
+    if user_text in ["แนวทางปฏิบัติขณะน้ำท่วม", "แนวทางปฏิบัติหลังน้ำท่วม", "แนวทางปฏิบัติก่อนน้ำท่วม", "เบอร์ฉุกเฉิน", "เช็คลิสต์ของที่เตรียม", "โรคที่ควรระวัง"]:
+        return
+    
+    # ================= 5. กรณีที่ผู้ใช้พิมพ์ข้อความอื่น (ต้องอยู่ล่างสุดเสมอ) =================
     line_bot_api.reply_message(
         event.reply_token,
-        FlexSendMessage(
-            alt_text="สถานการณ์น้ำล่าสุด",
-            contents=flex
-        )
+        TextSendMessage(text="หากต้องการใช้งาน กรุณากดเลือกเมนูจากปุ่มด้านล่าง")
     )
-
 
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=5000, debug=True)
