@@ -1,734 +1,760 @@
 ﻿id,station_type,station.tele_station_name.th
-1203439728,tele_waterlevel,บ้านขนงพระเหนือ
-1203496490,tele_waterlevel,สะพานธรรมจักร(วัดธรรมามูล)
-1203496840,tele_waterlevel,ปากรอ
-1203496299,tele_waterlevel,สะพานแม่น้ำแควใหญ่
-1203496463,tele_waterlevel,คลองชะอวด
-1203496701,tele_waterlevel,สะพานข้ามคลองอู่ตะเภา
-1203496826,tele_waterlevel,สะพานต้นน้ำ (เกาะแก้ว-ตลิ่งสูง)
-1203496720,tele_waterlevel,เมืองยะลา
-1203447220,tele_waterlevel,ประปายโสธร
-1203476806,tele_waterlevel,วัดบางไผ่นารถ
-1203476802,tele_waterlevel,ที่ว่าการอ.นครชัยศรี
-1203492177,tele_waterlevel,น้ำตกโตนแพรทอง
-1203496835,tele_waterlevel,สะพานตาบัว บ้านยาเด๊ะ
-1203496287,tele_waterlevel,สะพานน้ำแม่โถ
-1203442973,tele_waterlevel,แม่น้ำตาปี บ้านหาดทรายแก้ว อ.ฉวาง จ.นครศรีธรรมราช
-1203432310,tele_waterlevel,บ่อดินขาว
-1203496758,tele_waterlevel,เมืองแกลง
-1203496681,tele_waterlevel,สะพานบ้านแก่งโพธิ์
-1203442951,tele_waterlevel,บ้านหัวสะพาน
-1203440339,tele_waterlevel,กรมชลประทานสามเสน
-1203496233,tele_waterlevel,สะพานท่าสำเภา
-1203496501,tele_waterlevel,สะพานกรุงเทพ
-1203496746,tele_waterlevel,สะพานนางพระยา-บางหลวง ชุมชนปากนคร
-1203496827,tele_waterlevel,สะพานแม่เล่ย์
-1203492341,tele_waterlevel,นายายอาม
-1203496459,tele_waterlevel,บางน้ำเปรี้ยว
-1203442904,tele_waterlevel,บ้านนาสีทอง
-1203476805,tele_waterlevel,ร.ร.บ้านสามพราน
-1203496500,tele_waterlevel,สะพานนวลฉวี
-1203496578,tele_waterlevel,พระรามสอง
-1203496692,tele_waterlevel,สะพานข้ามคลองบางม่วง
-1203496836,tele_waterlevel,สะพานกะลูบี บ้านสายปารี
-1203496499,tele_waterlevel,บางไทร
-1203496553,tele_waterlevel,สะพานค่ายบางระจัน
-1203496881,tele_waterlevel,บางเลน
-1203440363,tele_waterlevel,สะพานหัวเวียง
-1203496751,tele_waterlevel,สะพานบ้านเจดีย์งาม
-1203496899,tele_waterlevel,เมืองตราด
-1203487981,tele_waterlevel,วัดโชติการาม อ.เมืองสุราษฎร์ธานี
-1203496882,tele_waterlevel,สะพานนครชัยศรี
-1203496719,tele_waterlevel,บันนังสตา
-1203496263,tele_waterlevel,สะพานน้ำแม่สรวย
-1203442970,tele_waterlevel,บ้านบองอ 
-1203496445,tele_waterlevel,คลองเปรมประชากร หลักหก
-1203476804,tele_waterlevel,บ้านบางการ้อง
-1203496834,tele_waterlevel,สะพานไอร์ปาโจ
-1203496907,tele_waterlevel,ชุมแสงสงคราม
-1203496677,tele_waterlevel,ปตร.ธรณิศนฤมิต-เหนือน้ำ
-1203495614,tele_waterlevel,หน้าเขื่อนปากมูล
-1203496901,tele_waterlevel,วังกระแจะ
-1203496863,tele_waterlevel,ลำเซบาย
-1203496873,tele_waterlevel,สถานีสูบน้ำคลองระบายชัยนาท-ป่าสัก 2 (ทุ่งเชียงราก)
-1203496682,tele_waterlevel,ปตร.บ้านนาคู่-เหนือน้ำ
-1203492835,tele_waterlevel,สะพานอำเภอเขาสมิง
-1203496447,tele_waterlevel,คลองทวีวัฒนา ท้ายปตร.ทวีวัฒนา
-1203476795,tele_waterlevel,บ้านปากแซง
-1203496870,tele_waterlevel,สถานีสูบน้ำปากคลองสายห้วยแก้ว (ทุ่งซ้ายคลองชัยนาท)
-1203496498,tele_waterlevel,บางปะอิน
-1203496666,tele_waterlevel,เชียรใหญ่
-1203496577,tele_waterlevel,บ้านแพ้ว
-1203442927,tele_waterlevel,หน้าวัดภูผาพิมุข
-1203496825,tele_waterlevel,เมืองอุทัยธานี
-1203496543,tele_waterlevel,ฟิวเจอร์ฯรังสิต
-1203442948,tele_waterlevel,บ้านบูเก๊ะตา
-1203496454,tele_waterlevel,คลองจระเข้ใหญ่ บางเสาธง (วัดศรีวารีน้อย)
-1203496871,tele_waterlevel,สถานีสูบน้ำปากคลองสระตาแวว (ทุ่งซ้ายคลองชัยนาท)
-1203496546,tele_waterlevel,บางตะบูนและบางตะบูนออก
-1203476786,tele_waterlevel,สะพานข้ามแม่น้ำแม่กลองหน้าศาลากลางจ.กาญจนบุรี
-1203496693,tele_waterlevel,สะพานข้ามคลองลำปำ
-1203496438,tele_waterlevel,สวนศรีนครเขื่อนขันธ์
-1203440347,tele_waterlevel,บ้านป้อม
-1203496733,tele_waterlevel,แม่น้ำลี้ บ้านโฮ่ง
-1203496703,tele_waterlevel,สะพานข้ามคลองระโนด
-1203496726,tele_waterlevel,เมืองตาก
-1203496451,tele_waterlevel,คลองระพีพัฒน์แยกใต้ หนองเสือ
-1203496829,tele_waterlevel,คลองกลาง
-1203496883,tele_waterlevel,เมืองสมุทรสาคร
-1203442913,tele_waterlevel,บ้านคลองลำ
-1203259631,tele_waterlevel,บ้านสบสอย
-1203496721,tele_waterlevel,สะพานบ้านตรังพัฒนา
-1203496234,tele_waterlevel,คลองสุหงาบารู หมู่ที่ 4
-1203440357,tele_waterlevel,สะพานปรีดี-ธำรง
-1203276142,tele_waterlevel,บ้านวังก้อง
-1203496748,tele_waterlevel,ท้ายกว๊านพะเยา
-1203485447,tele_waterlevel,บางระกำ
-1203496410,tele_waterlevel,อโศก
-1203485443,tele_waterlevel,บางระกำ
-1203496477,tele_waterlevel,ฝาง
-1203492831,tele_waterlevel,เทศบาลเมือง
-1203496880,tele_waterlevel,วัดท่าเจดีย์ (TTC06)
-1203496845,tele_waterlevel,ฝายคลองท่าเลา
-1203496872,tele_waterlevel,ทรบ. ปากคลองห้าวา (ทุ่งท่าวุ้ง)
-1203496885,tele_waterlevel,บางปลา
-1203496442,tele_waterlevel,ปตร. คลองตาสด
-1203496884,tele_waterlevel,สองพี่น้อง
-1203496744,tele_waterlevel, สะพานข้ามคลองโคน
-1203440348,tele_waterlevel,บ้านบางหลวงโดด
-1203496572,tele_waterlevel,บางปะหัน
-1203476803,tele_waterlevel,บ้านวัดพระรูป
-1203496446,tele_waterlevel,คลองมหาสวัสดิ บางกรวย-สวนผัก
-1203496670,tele_waterlevel,องครักษ์
-1203496842,tele_waterlevel,ละงู
-1203492828,tele_waterlevel,ตำบลท่าหลวง
-1203496894,tele_waterlevel,พุนพิน 3
-1203496700,tele_waterlevel,สะพานเทพาสันติสุข
-1203496679,tele_waterlevel,ปตร. ห้วยแคน-เหนือน้ำ
-1203496503,tele_waterlevel,เสนา
-1203432392,tele_waterlevel,วัดขนอนใต้
-1203496289,tele_waterlevel,สะพานน้ำปี้ เชียงม่วน
-1203439715,tele_waterlevel,ตำบลในเมือง
-1203496841,tele_waterlevel,บางกล่ำ
-1203496859,tele_waterlevel,ลำน้ำอูน
-1203442968,tele_waterlevel,บ้านปายอยือนิ 
-1203496496,tele_waterlevel,คลองบางบาล
-1203496573,tele_waterlevel,เมืองลพบุรี
-1203496844,tele_waterlevel,สวี 1
-1203496702,tele_waterlevel,สะพานสวนเฉลิมพระเกียรติ 72 พรรษามหาราชินี
-1203496876,tele_waterlevel,สะพานคง-ศุข ศรีสวัสดิ์
-1203492829,tele_waterlevel,บ้านหน้าเมือง
-1203476787,tele_waterlevel,บ้านลุ่มสุ่ม
-1203439709,tele_waterlevel,สะพานเสรีประชาธิปไตย
-1203496441,tele_waterlevel,ปตร. คลองลัดบางยอ 2
-1203485429,tele_waterlevel,บ้านย่านรี
-1203442955,tele_waterlevel,บ้านไสหาร
-1203496495,tele_waterlevel,คลองบางหลวง
-1203496462,tele_waterlevel,คลองระพีพัฒน์แยกตก
-1203496738,tele_waterlevel,เมืองปราจีนบุรี
-1203496857,tele_waterlevel,คลองปาว
-1203439720,tele_waterlevel,บ้านซึม
-1203496232,tele_waterlevel,สะพานบ้านแหลมโตนด
-1203496243,tele_waterlevel,บ้านคลองใส หมู่ที่ 8
-1203496717,tele_waterlevel,นครหลวง
-1203496561,tele_waterlevel,นาทวี
-1203440356,tele_waterlevel,บ้านท่างิ้ว
-1203496458,tele_waterlevel,คลองลาดพร้าว วัดบางบัว
-1203442945,tele_waterlevel,บ้านเคียนซา
-1203496858,tele_waterlevel,ห้วยยัง
-1203488149,tele_waterlevel,แม่น้ำปิงที่ อ.บ้านตาก
-1203496449,tele_waterlevel,คลองมหาชัย วัดพันท้ายนรสิงห์
-1203496474,tele_waterlevel,แม่อาย
-1203440349,tele_waterlevel,บ้านบางบาล
-1203228145,tele_waterlevel,บ้านซำฆ้อ
-1203496878,tele_waterlevel,สามชุก
-1203496747,tele_waterlevel,สะพานคลองปากแตระ ชุมชนทะเลสาบสงขลา
-1203496487,tele_waterlevel,สะพานเดชาติวงศ์
-1203439696,tele_waterlevel,บ้านดอนยาง
-1203496909,tele_waterlevel,ศาลาดิน
-1203496558,tele_waterlevel,สะพานแมน้ำปาสัก บ้านนาโฉง
-1203496892,tele_waterlevel,ตาพระยา
-1203496557,tele_waterlevel,สะพานคลองส่งน้ำชลประทาน บ้านสร่างโศก
-1203496731,tele_waterlevel,สะพานแม่น้ำทา
-1203496507,tele_waterlevel,ท่อทองแดง1
-1203492853,tele_waterlevel,อ.ศรีมหาโพธิ์
-1203496724,tele_waterlevel,ท่ายาง
-1203492836,tele_waterlevel,สะพานวัดจันทนาราม
-1203496497,tele_waterlevel,พระนครศรีอยุธยา
-1203496220,tele_waterlevel,ลำน้ำกวงสะพานศรีดอนชัย
-1203496934,tele_waterlevel,กงไกรลาศ
-1203496489,tele_waterlevel,ปตร.มโนรมย์
-1203496893,tele_waterlevel,พุนพิน 2
-1203496273,tele_waterlevel,สะพานน้ำแม่แตง
-1203485435,tele_waterlevel,บ้านเด่นสำโรง
-1203496866,tele_waterlevel,ปตร.ลาดชะโด (ทุ่งผักไห่)
-1203485448,tele_waterlevel,บ้านกง
-1203496554,tele_waterlevel,สะพานคลองส่งน้ำชลประทาน บ้านตลาดใหม่
-1203496439,tele_waterlevel,ปตร.วัดบางกระเจ้านอก
-1203440340,tele_waterlevel,สถานีแพดับเพลิง
-1203496452,tele_waterlevel,คลองหกวา ลำลูกกา คลอง8
-1203496455,tele_waterlevel,คลองพระพิมล (ไทรน้อย)
-1203496823,tele_waterlevel,เมืองสระแก้ว
-1203496488,tele_waterlevel,พยุหะคีรี
-1203496908,tele_waterlevel,ชุมชนลีเล็ด
-1203439719,tele_waterlevel,บ้านสีถาน
-1203496310,tele_waterlevel,บ้านดอยต่อคำ
-1203485430,tele_waterlevel,ต.ในเมือง
-1203442938,tele_waterlevel,สะพานเทศบาล 2
-1203496565,tele_waterlevel,สุวรรณคูหา
-1203485446,tele_waterlevel,สามง่าม
-1203485441,tele_waterlevel,บ้านราชช้างขวัญ
-1203496456,tele_waterlevel,คลองนราภิรมย์ (บางเลน)
-1203490262,tele_waterlevel,คลองนางน้อย
-1203440355,tele_waterlevel,วัดเกยไชยเหนือ
-1203442937,tele_waterlevel,บ้านคลองหวะ
-1203447231,tele_waterlevel,บ้านดอนขยอม
-1203496725,tele_waterlevel,บ้านตาก
-1203476792,tele_waterlevel,บ้านวังเย็น
-1203447223,tele_waterlevel,บ้านฟ้าหยาด
-1203496902,tele_waterlevel,บางพระ
-1203496478,tele_waterlevel,เมืองจันทบุรี
-1203496903,tele_waterlevel,คลองประณีต บ.ตลุง
-1203496481,tele_waterlevel,เทิง
-1203496639,tele_waterlevel,ชุมพวง
-1203496850,tele_waterlevel,ฝ่ายส่งน้ำและบำรุงรักษาที่ 2
-1203496448,tele_waterlevel,คลองภาษีเจริญ เพชรเกษม69
-1203485438,tele_waterlevel,ท้ายเขื่อนนเรศวร
-1203496444,tele_waterlevel,คลองลาดพร้าว ท้ายปตร.คลอง2
-1203496312,tele_waterlevel,สะพานมิตรภาพแม่น้ำสายแห่งที่ 1
-1203496735,tele_waterlevel,น้ำก้อ
-1203485421,tele_waterlevel,ต.ในเมือง
-1203439693,tele_waterlevel,บ้านเชียงเพ็ง
-1203496716,tele_waterlevel,ท่าเรือ
-1203440350,tele_waterlevel,บ้านหาดทนง
-1203439727,tele_waterlevel,บ้านสัมฤทธิ์
-1203485196,tele_waterlevel,สะพานห้วยแม่สาว
-1203496504,tele_waterlevel,คลองผันน้ำยม-น่าน2
-1203496833,tele_waterlevel,สว่างแดนดิน
-1203439711,tele_waterlevel,บ้านโพธิ์ตาก
-1203234500,tele_waterlevel,บ้านเกาะคา
-1203495613,tele_waterlevel,แม่น้ำมูล เมืองอุบลราชธานี (M.7)
-1203496685,tele_waterlevel,ปตร.บ้านนาบัว-เหนือน้ำ
-1203411537,tele_waterlevel,สะพานนวรัฐ
-1203208078,tele_waterlevel,บ้านโนนสมบูรณ์
-1203440360,tele_waterlevel,ท้ายเขื่อนพระรามหก
-1203485455,tele_waterlevel,หน้าวัดศรีภิรมย์
-1203439722,tele_waterlevel,บ้านบัว
-1203476788,tele_waterlevel,บ้านวังขนาย
-1203492851,tele_waterlevel,บ้านสระขวัญ
-1203440343,tele_waterlevel,บ้านบางแก้ว
-1203496470,tele_waterlevel,ยางตลาด
-1203496669,tele_waterlevel,ท่าศาลา
-1203485442,tele_waterlevel,สะพานสุพรรณกัลยา 
-1203496502,tele_waterlevel,คลองพระยาบรรลือ
-1203496867,tele_waterlevel,ปตร.ลาดชิด (ทุ่งผักไห่)
-1203439712,tele_waterlevel,บ้านห้วยทับทัน
-1203411530,tele_waterlevel,บ้านมาง
-1203488144,tele_waterlevel,แม่น้ำปิงที่ อ.สามเงา (P.12C)
-1203496242,tele_waterlevel,บ้านคลองวาย หมู่ที่ 7
-1203496862,tele_waterlevel,ลำน้ำก่ำ
-1203442914,tele_waterlevel,บ้านม่วงก็อง
-1203496900,tele_waterlevel,ห้วยแร้ง
-1203496229,tele_waterlevel,สะพานข้ามคลองวังเคียน
-1203485419,tele_waterlevel,บ้านหนองกระท้าว
-1203496855,tele_waterlevel,คลองแม่พุง
-1203496661,tele_waterlevel,เมืองพิษณุโลก
-1203411578,tele_waterlevel,บ้านไฮ
-1203496567,tele_waterlevel,เมืองกาญจนบุรี
-1203476810,tele_waterlevel,บ้านสาระเห็ด
-1203496222,tele_waterlevel,คลองสรอย วัดแม่ขมวก
-1203496879,tele_waterlevel,เมืองสุพรรณบุรี
-1203439701,tele_waterlevel,บ้านป่าก่อ
-1203439723,tele_waterlevel,บ้านเขวา
-1203496750,tele_waterlevel,สะพานบ้านต๋ำ
-1203496453,tele_waterlevel,ปากคลองพระองค์เจ้าฯ (บางน้ำเปรี้ยว)
-1203492838,tele_waterlevel,บ้านเขาโบสถ์
-1203496467,tele_waterlevel,เมืองขอนแก่น
-1203442940,tele_waterlevel,บ้านตลาดเก่า
-1203496752,tele_waterlevel,สะพานข้ามน้ำอิง (I.17)
-1203496656,tele_waterlevel,ตะพานหิน
-1203476816,tele_waterlevel,เขาลูกช้าง
-1203496644,tele_waterlevel,ประโคนชัย
-1203439705,tele_waterlevel,ศูนย์วิจัยและพัฒนาประมงน้ำจืดสุรินทร์
-1203411592,tele_waterlevel,บ้านแม่หล่าย
-1203496687,tele_waterlevel,ปตร.บ้านตับเต่า-เหนือน้ำ
-1203447222,tele_waterlevel,บ้านท่าสะแบง
-1203440341,tele_waterlevel,ค่ายจิรประวัติ
-1203485428,tele_waterlevel,บ้านแสนตอ
-1203492833,tele_waterlevel,บ้านค่าย
-1203411549,tele_waterlevel,บ้านแม่แต
-1203496860,tele_waterlevel,บ้านโพธิ์ชัยทอง
-1203496544,tele_waterlevel,ป้อมพระจุลจอมเกล้า
-1203496888,tele_waterlevel,เมืองตรัง
-1203496672,tele_waterlevel,สะพานท่าน้ำ
-1203496218,tele_waterlevel,สะพานน้ำมวบ (บ้านภูแยง)
-1203411585,tele_waterlevel,บ้านหลวงเหนือ
-1203496294,tele_waterlevel,สะพานพระร่วงข้ามน้ำแควน้อย
-1203496277,tele_waterlevel,สะพานน้ำแม่ต๋ำ
-1203440351,tele_waterlevel,บ้านศาลเจ้าไก่ต่อ
-1203496494,tele_waterlevel,เมืองอ่างทอง
-1203496638,tele_waterlevel,เฉลิมพระเกียรติ
-1203496728,tele_waterlevel,ขาณุวรลักษบุรี
-1203496479,tele_waterlevel,แก่งหางแมว
-1203496741,tele_waterlevel,ศรีมหาโพธิ (KGT6)
-1203476807,tele_waterlevel,บ้านสองพี่น้อง
-1203496743,tele_waterlevel,หัวหิน
-1203492842,tele_waterlevel,บ้านปึก
-1203496576,tele_waterlevel,สะพานข้ามลำน้ำเชิญ (มิตรผลหนองเรือ)
-1203496684,tele_waterlevel,สะพานมิตรภาพท่าลาดปากบัง
-1203496759,tele_waterlevel,หนองบัว
-1203496905,tele_waterlevel,คลองเขาระกำ
-1203496271,tele_waterlevel,สะพานน้ำแม่แจ่ม
-1203496486,tele_waterlevel,หลังสวน
-1203496730,tele_waterlevel,เมืองกำแพงเพชร (P7A)
-1203492861,tele_waterlevel,บ้านท่าบุญมี
-1203492852,tele_waterlevel,บ้านเขาฉกรรจ์
-1203411552,tele_waterlevel,บ้านสบแปะ
-1203411563,tele_waterlevel,บ้านสบวิน
-1203492848,tele_waterlevel,บ้านแก่งดินสอ
-1203496562,tele_waterlevel,คลองห้วยยาง
-1203485431,tele_waterlevel,บ้านท่าแค
-1203496460,tele_waterlevel,พนมสารคาม
-1203496568,tele_waterlevel,ไทรโยค
-1203485420,tele_waterlevel,บ้านหาดไผ่
-1203411547,tele_waterlevel,บ้านริมใต้
-1203411568,tele_waterlevel,บ้านหล่ายแก้ว
-1203411559,tele_waterlevel,บ้านสบแม่สะป๊วด
-1203442917,tele_waterlevel,บ้านท่านา
-1203496906,tele_waterlevel,สะพานนครป่าหมากร่วมใจ
-1203496551,tele_waterlevel,คลองช่องสะเดา
-1203485418,tele_waterlevel,บ้านชมพู
-1203488146,tele_waterlevel,แม่น้ำปิงที่ อ.คลองขลุง (P.15)
-1203485425,tele_waterlevel,ต.ธานี
-1203496468,tele_waterlevel,เขื่องใน
-1203485444,tele_waterlevel,บ้านคลองตาล
-1203496309,tele_waterlevel,บ้านโจตาดา
-1203440352,tele_waterlevel,บ้านปางมะค่า
-1203496652,tele_waterlevel,เมืองน่าน
-1203447233,tele_waterlevel,บ้านนาหลัก
-1203496440,tele_waterlevel,ปตร. คลองลัดบางยอ 1
-1203496943,tele_waterlevel,น้ำแม่งาว
-1203496727,tele_waterlevel,สะพานลานดอกไม้
-1203442934,tele_waterlevel,บริเวณสะพานลันตู
-1203253883,tele_waterlevel,บ้านวังพร้าว
-1202416673,tele_waterlevel,ปตร.บางแก้ว (ทุ่งผักไห่)
-1203439706,tele_waterlevel,บ้านด่านกะตา
-1203440342,tele_waterlevel,บ้านบางพุทรา
-1203485440,tele_waterlevel,บ้านท่างาม
-1203496643,tele_waterlevel,พิบูลมังสาหาร
-1203496482,tele_waterlevel,แม่จัน
-1203476793,tele_waterlevel,บ้านยางสูง
-1203442935,tele_waterlevel,บ้านปะเหลียนใน
-1203439724,tele_waterlevel,บ้านโคกกรวด
-1203496732,tele_waterlevel,แม่น้ำทา
-1203447227,tele_waterlevel,บ้านวังหิน
-1203496657,tele_waterlevel,ชุมแสง
-1203496296,tele_waterlevel,สะพานน้ำเข็ก
-1203442905,tele_waterlevel,บ้านท่าแค
-1203496714,tele_waterlevel,เมืองเพชรบูรณ์
-1203496566,tele_waterlevel,เมืองอุดรธานี
-1203496469,tele_waterlevel,เมืองมหาสารคาม
-1203442907,tele_waterlevel,บ้านบางศาลา
-1203496938,tele_waterlevel,เมืองสุโขทัย
-1203439710,tele_waterlevel,ชุมชนสะพานขาว
-1203496715,tele_waterlevel,หนองไผ่
-1203496729,tele_waterlevel,เก้าเลี้ยว
-1203496457,tele_waterlevel,คลองลาดพร้าว ปากคลอง2สายใต้
-1203442965,tele_waterlevel,คลองหาดส้มแป้น
-1203496838,tele_waterlevel,คลองหอยโข่ง
-1203496699,tele_waterlevel,สะพานข้ามคลองเทพา
-1203492860,tele_waterlevel,บ้านวังหมัน
-1203253870,tele_waterlevel,บ้านกลาง
-1201777185,tele_waterlevel,แม่น้ำปิงที่ อ.เมืองตาก (P.2A)
-1203496223,tele_waterlevel,สะพานวัดมงคลร่วมใจ (บ้านวังสาร)
-1203476784,tele_waterlevel,สะพานค่ายหลวง
-1203447226,tele_waterlevel,บ้านม่วงลาด
-1203496506,tele_waterlevel,คลองผันน้ำยม-น่าน4
-1203439704,tele_waterlevel,บ้านหินโคนเก่า
-1203440344,tele_waterlevel,ท้ายเขื่อนเจ้าพระยา
-1203496295,tele_waterlevel,สะพานคลองท่าสะแก
-1203411600,tele_waterlevel,หน้าสำนักงานป่าไม้
-1203496640,tele_waterlevel,ราษีไศล
-1203496745,tele_waterlevel,สะพานคลองท่าชนะ ชุมชนบ้านหาดสมบูรณ์
-1203496718,tele_waterlevel,สะพานเตาปูน-ตาลเดี่ยว
-1203496890,tele_waterlevel,วังวิเศษ
-1203442943,tele_waterlevel,ถนนลูกเสือ
-1203496655,tele_waterlevel,บางกระทุ่ม
-1203440353,tele_waterlevel,บ้านโคกหม้อ
-1203442931,tele_waterlevel,บ้านท่าสาบ
-1203447230,tele_waterlevel,บ้านธวัชดินแดง
-1203411545,tele_waterlevel,บ้านเชียงดาว
-1203442910,tele_waterlevel,บ้านท้า่ยนา
-1203440359,tele_waterlevel,บ้านท่ารวก
-1203485450,tele_waterlevel,บ้านแม่เชียงราย
-1203496224,tele_waterlevel,สะพานบางไตประชาบริรักษ์
-1203496461,tele_waterlevel,คลองขนาน
-1203496411,tele_waterlevel,สะพานลำน้ำเลย
-1203476791,tele_waterlevel,บ้านหนองบัว
-1203439695,tele_waterlevel,บ้านท่าบอแบง
-1203496755,tele_waterlevel,โพธาราม
-1203496269,tele_waterlevel,สะพานน้ำแม่กลาง
-1203442912,tele_waterlevel,บ้านเสาธง
-1203411619,tele_waterlevel,บ้านแลง
-1203496251,tele_waterlevel,สะพานห้วยแม่ตาช้าง
-1203496642,tele_waterlevel,เมืองศรีสะเกษ
-1203492850,tele_waterlevel,บ้านแก้ง
-1203496236,tele_waterlevel,ห้วยแม่แจ่ม
-1203496265,tele_waterlevel,สะพานน้ำชี
-1203439718,tele_waterlevel,บ้านลาดบัวขาว
-1203496895,tele_waterlevel,ท่าขนอม
-1203496891,tele_waterlevel,รัษฎา
-1203439694,tele_waterlevel,บ้านวังชมภู
-1203496493,tele_waterlevel,พรหมบุรี
-1203217048,tele_waterlevel,บ้านอาพาธ
-1203442956,tele_waterlevel,บ้านปรีกี
-1203496853,tele_waterlevel,สะพานข้ามลำปะเทีย
-1203496941,tele_waterlevel,แม่ต้า
-1203259645,tele_waterlevel,บ้านสลวงนอก
-1203411519,tele_waterlevel,สะพานวงแหวนรอบ 3
-1203496563,tele_waterlevel,วังสะพุง
-1203442949,tele_waterlevel,บ้านปันจอร์
-1203496238,tele_waterlevel,คลองกั้ง
-1203496736,tele_waterlevel,สะพานข้ามคลองบ้านท่าวัง
-1203496415,tele_waterlevel,สะพานข้ามน้ำมูล
-1203496505,tele_waterlevel,คลองผันน้ำยม-น่าน3
-1203496575,tele_waterlevel,คลองนาท่อม
-1203442899,tele_waterlevel,บ้านหาดใหญ่ใน
-1203496937,tele_waterlevel,เมืองแพร่
-1203442969,tele_waterlevel,สะพานเดชานุชิต
-1203496654,tele_waterlevel,แม่น้ำเข็ก (ว้งทอง)
-1203496667,tele_waterlevel,ถ้ำพรรณรา
-1203447221,tele_waterlevel,บ้านท่านางเลื่อน
-1203496471,tele_waterlevel,เขาวง
-1203440362,tele_waterlevel,บ้านพูลทรัพย์
-1203439726,tele_waterlevel,บ้านเขื่องใน
-1203220893,tele_waterlevel,บ้านเมืองคง
-1203440358,tele_waterlevel,บ้านป่า
-1203411554,tele_waterlevel,บ้านช่อแล
-1203496221,tele_waterlevel,ลำน้ำสานบ้านทุ่งยาวเหนือ
-1203485417,tele_waterlevel,บ้านท่าสะแก
-1203411571,tele_waterlevel,บ้านป่าซาง
-1203447236,tele_waterlevel,บ้านท่าห้วยหลัว
-1203439702,tele_waterlevel,บ้านท่าเยี่ยม
-1203259643,tele_waterlevel,บ้านสันปู่เลย
-1203442946,tele_waterlevel,บ้านย่านตาขาว
-1203442939,tele_waterlevel,บ้านซากอ
-1203485427,tele_waterlevel,คลองวังเจ้า
-1203442925,tele_waterlevel,บ้านควนกลาง (1)
-1203496710,tele_waterlevel,สะพานถนนสายเอเซีย 4265
-1203492843,tele_waterlevel,บ้านเขาวังไทร
-1203440354,tele_waterlevel,บ้านดอนใหญ่
-1203439707,tele_waterlevel,บ้านพงสวาย
-1203496308,tele_waterlevel,สะพานบ้านคีรีวง คลองท่าดี
-1203411609,tele_waterlevel,บ้านต้นยาง
-1203442920,tele_waterlevel,บ้านท่าไม้ลาย
-1203434756,tele_waterlevel,น้ำสา
-1203411617,tele_waterlevel,บ้านหัวสะพาน
-1203496830,tele_waterlevel,สะพานนาทม
-1203485437,tele_waterlevel,บ้านฟากท่า
-1203496708,tele_waterlevel,สะพานข้ามคลองปากหมาก
-1203496831,tele_waterlevel,บ้านม่วง
-1203496492,tele_waterlevel,อินทร์บุรี
-1203259625,tele_waterlevel,สะพานท่าข้าม
-1203217050,tele_waterlevel,บ้านแม่ขรี
-1203496485,tele_waterlevel,เมืองชุมพร
-1203442924,tele_waterlevel,บ้านป่าหมาก
-1203496904,tele_waterlevel,คลองโสน
-1203442922,tele_waterlevel,บ้านกลาง
-1203492276,tele_waterlevel,สะพานบังอี่
-1203496713,tele_waterlevel,หล่มสัก
-1203496712,tele_waterlevel,ปาย
-1203476815,tele_waterlevel,สะพานบ้านลาด
-1203496555,tele_waterlevel,สะพานป่าโมก
-1203496282,tele_waterlevel,สะพานบ้านตึก
-1203411535,tele_waterlevel,สะพานท่าลี่
-1203496940,tele_waterlevel,สะพานหนองจันทร์
-1203496939,tele_waterlevel,ศาลเจ้าพ่อพญาอ้น
-1203496737,tele_waterlevel,กบินทร์บุรี
-1203496569,tele_waterlevel,ลิ่นถิ่น
-1203496552,tele_waterlevel,สะพานอนุสรณ์ 100 ปีสิงห์หบุรี (สะพานหลวงพ่อแพ 89)
-1203442967,tele_waterlevel,วัดถลุงทอง อำเภอร่อนพิบูลย์ 
-1203492849,tele_waterlevel,บ้านทุ่งแฝก
-1203496659,tele_waterlevel,น้ำปาด
-1203411588,tele_waterlevel,บ้านห้วยสัก
-1203496491,tele_waterlevel,สรรพยา
-1203496475,tele_waterlevel,เชียงดาว
-1203402135,tele_waterlevel,สะพานข้ามห้วยสมอ
-1203496466,tele_waterlevel,ชนบท
-1203496742,tele_waterlevel,ปราณบุรี
-1203496865,tele_waterlevel,ปตร.ปลายคลองบางซอ (ทุ่งเจ้าเจ็ด)
-1203496272,tele_waterlevel,สะพานน้ำแม่งัด
-1203496216,tele_waterlevel,ลำน้ำขว้าง (ฝายจ้าว)
-1203439714,tele_waterlevel,สำนักเทคโนโลยีชีวภัณฑ์สัตว์
-1203496889,tele_waterlevel,ปะเหลียน
-1203434936,tele_waterlevel,สวี 2
-1203411576,tele_waterlevel,สะพานเสตุวารี
-1203476789,tele_waterlevel,บ้านทุ่งนานางหรอก
-1203442933,tele_waterlevel,บ้านมูโน๊ะ
-1203496691,tele_waterlevel,สะพานข้ามคลองท่าแพ
-1203442941,tele_waterlevel,บ้านรมณีย์
-1203485414,tele_waterlevel,ต.ในเมือง
-1203496673,tele_waterlevel,สะพานข้ามคลองกระบี่ใหญ่ 1
-1203485452,tele_waterlevel,บ้านสามเรือน
-1203496753,tele_waterlevel,สะพานคลองแม่ต๋ำ
-1203411595,tele_waterlevel,บ้านวังชิ้น
-1203496849,tele_waterlevel,สะพานโยธาอำนวยพัฒนา
-1203496868,tele_waterlevel,ปตร กุฎิ (ทุ่งป่าโมก)
-1203485413,tele_waterlevel,ต.ตาลเดี่ยว
-1203442918,tele_waterlevel,บ้านบางรูป
-1203442911,tele_waterlevel,บ้านวังครก
-1203411573,tele_waterlevel,บ้านเมืองกึ๊ด
-1203447225,tele_waterlevel,บ้านค่าย
-1203439713,tele_waterlevel,บ้านท่ามะปรางค์
-1203411612,tele_waterlevel,บ้านโป่งปูเฟือง
-1203447228,tele_waterlevel,บ้านดอนขนวน
-1203442930,tele_waterlevel,บ้านย่านดินแดง
-1203496756,tele_waterlevel,บ้านโป่ง
-1203496290,tele_waterlevel,สะพานพญาอาทิตราช
-1203496412,tele_waterlevel,สะพานห้วยบังบาต
-1203485415,tele_waterlevel,บ้านแก่งบัวคำ
-1203496293,tele_waterlevel,สะพานคลองตรอน
-1203496839,tele_waterlevel,สะเดา
-1203411581,tele_waterlevel,บ้านหนองนาว
-1203496574,tele_waterlevel,ตลาดเก่าตะกั่วป่า
-1203496683,tele_waterlevel,ปตร. บ้านนาคู่-ท้ายน้ำ
-1203496933,tele_waterlevel,สวรรคโลก
-1203496861,tele_waterlevel,ลำน้ำพุง
-1203442960,tele_waterlevel,บ้านหูแร่
-1203496311,tele_waterlevel,สะพานอูทูนอ่อง บ้านสบสาย
-1203496258,tele_waterlevel,สะพานน้ำว้า บ้านน้ำว้า
-1203496298,tele_waterlevel,สะพานคลองสนธิ
-1203419332,tele_waterlevel,ห้วยแม่ตื่นที่ อ.อมก๋อย
-1203442902,tele_waterlevel,บ้านท่าประดู่
-1203411614,tele_waterlevel,บ้านแม่คำหลักเจ็ด
-1203492855,tele_waterlevel,บ้านเขานางบวช
-1203442964,tele_waterlevel,บ้านบริดอ
-1203492846,tele_waterlevel,บ้านนาแขม
-1203496264,tele_waterlevel,สะพานแม่น้ำงาว
-1203492775,tele_waterlevel,ศรีสัชนาลัย
-1203442947,tele_waterlevel,บ้านฉลุงเหนือ
-1203496932,tele_waterlevel,เด่นชัย
-1203411583,tele_waterlevel,บ้านน้ำโค้ง
-1203496246,tele_waterlevel,สะพานข้ามแม่น้ำลาว-บ้านป่าสัก
-1203496650,tele_waterlevel,ท่าวังผา
-1203496819,tele_waterlevel,เมืองระนอง
-1203496268,tele_waterlevel,สะพานน้ำแม่ขาน
-1203485451,tele_waterlevel,บ้านวังหมัน
-1203496897,tele_waterlevel,พระแสง
-1203259636,tele_waterlevel,บ้านแม่หวาน
-1203496843,tele_waterlevel,มะนัง
-1203496307,tele_waterlevel,สะพานคลองปง (คีรีวง)
-1203485433,tele_waterlevel,ต.ตาดกลอย
-1203439708,tele_waterlevel,บ้านสตึก
-1203492863,tele_waterlevel,อ. กบินทร์บุรี
-1203496935,tele_waterlevel,บางระกำ
-1203359469,tele_waterlevel,แม่น้ำปิงที่ อ.ฮอด
-1203411607,tele_waterlevel,บ้านปางสา
-1203442900,tele_waterlevel,บ้านท่าจีน
-1203227160,tele_waterlevel,บ้านท่าล้อ
-1203496674,tele_waterlevel,สะพานคลองอิปัน
-1203496570,tele_waterlevel,นครไทย
-1203440361,tele_waterlevel,ท้ายเขื่อนป่าสักชลสิทธิ์
-1203496464,tele_waterlevel,บ้านเขว้า
-1203476808,tele_waterlevel,สะพานท่าเกวียน
-1203476801,tele_waterlevel,สะพานรถยนต์ ร.ร.อนุบาลบางสะพาน
-1203496754,tele_waterlevel,สะพานคลองแม่กาหลง (ม.พะเยา)
-1203485449,tele_waterlevel,บ้านท่าไผ่
-1203447224,tele_waterlevel,บ้านท่าเม่า
-1203496305,tele_waterlevel,สะพานคลองวังโตนด
-1203439700,tele_waterlevel,บ้านโนนสีไคล
-1203496301,tele_waterlevel,สะพานคลองลำพญาธาร
-1203496896,tele_waterlevel,เวียงสระ
-1203246686,tele_waterlevel,บ้านกระเหรี่ยงทุ่งพร้าว
-1203442942,tele_waterlevel,บ้านเก็ตโฮ่
-1203485416,tele_waterlevel,บ้านทานตะวัน
-1203496564,tele_waterlevel,เมืองเลย
-1203439717,tele_waterlevel,บ้านโนนสะอาด
-1203496709,tele_waterlevel,สะพานข้ามคลองท่าชนะ
-1203442936,tele_waterlevel,บ้านวังพระเคียน
-1203442921,tele_waterlevel,บ้านนาป่า
-1203442953,tele_waterlevel,บ้านตันหยงมัส
-1203411590,tele_waterlevel,บ้านทุ่งหนอง
-1203259641,tele_waterlevel,บ้านโห้ง
-1203442929,tele_waterlevel,บ้านท่าข้าม
-1203259605,tele_waterlevel,บ้านหลวง
-1203442928,tele_waterlevel,บ้านเขาปู่
-1203496678,tele_waterlevel,ปตร.ธรณิศนฤมิต-ท้ายน้ำ
-1203411522,tele_waterlevel,บ้านดอนชัย
-1203496915,tele_waterlevel,เถิน
-1203496267,tele_waterlevel,สะพานน้ำลำตะคอง
-1203496662,tele_waterlevel,วังทอง
-1203496877,tele_waterlevel,ด่านช้าง
-1203496898,tele_waterlevel,วิภาวดี
-1203496302,tele_waterlevel,สะพานคลองนางรอง
-1203442909,tele_waterlevel,บ้านทุ่งปราบ
-1203492841,tele_waterlevel,บ้านฉมัน
-1203496671,tele_waterlevel,สะพานเขานางบวช
-1203476812,tele_waterlevel,ข้างจวนผู้ว่าฯ
-1203496698,tele_waterlevel,สะพานข้ามคลองโมง
-1203496241,tele_waterlevel,บ้านใต้
-1203496476,tele_waterlevel,แม่แตง
-1203240526,tele_waterlevel,บ้านวังตะเคียนทอง
-1203439725,tele_waterlevel,บ้านโนนค่า
-1203496284,tele_waterlevel,สะพานน้ำงิม
-1203496472,tele_waterlevel,สันทราย
-1203246759,tele_waterlevel,บ้านดอนสลี
-1203411556,tele_waterlevel,บ้านแม่อีไฮ
-1203439698,tele_waterlevel,บ้านหลุมดิน
-1203496414,tele_waterlevel,สะพานห้วยปากแซง
-1203492840,tele_waterlevel,บ้านโป่งโรงเซ็น
-1203496261,tele_waterlevel,สะพานแม่ตื่น
-1203411597,tele_waterlevel,บ้านแม่คำมีตำหนักธรรม
-1203485424,tele_waterlevel,หน้าอำเภอโพทะเล
-1203496722,tele_waterlevel,เมืองเพชรบุรี
-1203496832,tele_waterlevel,ศรีสงคราม
-1203496688,tele_waterlevel,ปตร. บ้านตับเต่า-ท้ายน้ำ
-1203411561,tele_waterlevel,บ้านโป่ง
-1203411566,tele_waterlevel,บ้านพันตน
-1203496916,tele_waterlevel,เกาะคา
-1203496465,tele_waterlevel,เมืองชัยภูมิ
-1203234494,tele_waterlevel,บ้านโป่ง
-1203496824,tele_waterlevel,คลองพรหมโหด
-1203476811,tele_waterlevel,ตลาดท่ายาง
-1203485439,tele_waterlevel,บ้านวังนกแอ่น
-1203492862,tele_waterlevel,บ้านโนนสุขภูมิ
-1203411602,tele_waterlevel,บ้านน้ำยาว
-1203266600,tele_waterlevel,บ้านม่วงป๊อก
-1203208874,tele_waterlevel,บ้านบุ่งอ้ายเจี้ยม
-1203411528,tele_waterlevel,บ้านเมืองมาย
-1203496820,tele_waterlevel,ศรีสาคร
-1203496887,tele_waterlevel,ท่าสะบ้า
-1203496473,tele_waterlevel,ฮอด
-1203496739,tele_waterlevel,นาดี
-1203496680,tele_waterlevel,ปตร. ห้วยแคน-ท้ายน้ำ
-1203496281,tele_waterlevel,สะพานน้ำงาว
-1203496723,tele_waterlevel,แก่งกระจาน
-1203492844,tele_waterlevel,บ้านศรีบัวทอง
-1203496913,tele_waterlevel,สามเงา
-1203496651,tele_waterlevel,ภูเพียง
-1203234496,tele_waterlevel,บ้านท่าเดื่อ
-1203496931,tele_waterlevel,หนองม่วงไข่
-1203496740,tele_waterlevel,ประจันตคาม (KGT7A)
-1203476796,tele_waterlevel,บ้านด่านทับตะโก
-1203447234,tele_waterlevel,บ้านฟากเลย
-1203496711,tele_waterlevel,เมืองแม่ฮ่องสอน
-1203488147,tele_waterlevel,แม่น้ำวังที่ อ.เถิน (W.3A)
-1203488145,tele_waterlevel,ห้วยตากที่ อ.บ้านตาก
-1203496249,tele_waterlevel,ฝายคลองท่าโลน
-1203476800,tele_waterlevel,บ้านช้างแรก
-1203454254,tele_waterlevel,ห้วยแม่ท้อที่ อ.เมืองตาก
-1203496664,tele_waterlevel,แม่น้ำสา
-1203492830,tele_waterlevel,บ้านขุนซ่อง
-1203485445,tele_waterlevel,ห้วยแม่สิน
-1203496706,tele_waterlevel,สะพานคลองแม่น้ำเก่า
-1203496645,tele_waterlevel,สตึก
-1203496869,tele_waterlevel,ทุ่งโพธิ์พระยา
-1203476783,tele_waterlevel,บ้านบ้องตี้น้อย
-1203442903,tele_waterlevel,บ้านท่าแซะ
-1203439699,tele_waterlevel,บ้านคำสำราญ
-1200566226,tele_waterlevel,สะพานห้วยน้ำฮวย
-1203496278,tele_waterlevel,สะพานพัฒนามิตรภาพแม่น้ำตุ๋ย
-1203259637,tele_waterlevel,บ้านโป่งดิน
-1203442972,tele_waterlevel,บ้านน้ำจืด
-1203496942,tele_waterlevel,ห้วยแม่พวก
-1203496854,tele_waterlevel,สะพานมิตรภาพรับร่อ-หินแก้ว
-1203496480,tele_waterlevel,เมืองเชียงราย
-1203442926,tele_waterlevel,บ้านบางตง
-1203411525,tele_waterlevel,บ้านร่องเคาะ
-1203411540,tele_waterlevel,บ้านแม่แตง
-1203411604,tele_waterlevel,บ้านผาขวาง
-1203442932,tele_waterlevel,บ้านวังไผ่
-1203476790,tele_waterlevel,บ้านน้ำโจน
-1203496665,tele_waterlevel,ทุ่งสง
-1203496676,tele_waterlevel,สะพานหนองจิก-วังปลา
-1203496225,tele_waterlevel,สะพานคลองพาย
-1203496285,tele_waterlevel,สะพานน้ำเงิน
-1203496270,tele_waterlevel,สะพานน้ำแม่แจ่ม
-1203496276,tele_waterlevel,สะพานน้ำวัง
-1203447235,tele_waterlevel,บ้านแก่งบง
-1203442954,tele_waterlevel,บ้านหาดใน 
-1203496914,tele_waterlevel,แม่พริก
-1203496641,tele_waterlevel,เมืองสุรินทร์
-1203496694,tele_waterlevel,สะพานข้ามคลองกะเปอร์
-1203496413,tele_waterlevel,สะพานห้วยมุก
-1203496734,tele_waterlevel,ห้วยแม่ลี้
-1203485436,tele_waterlevel,บ้านวังโป่ง
-1203496886,tele_waterlevel,เมืองพังงา
-1203447239,tele_waterlevel,บ้านโนนตูม
-1203496252,tele_waterlevel,สะพานแม่น้ำน่าน บ้านเปียงก่อ
-1203496275,tele_waterlevel,สะพานน้ำคลองแม่สอย
-1203496244,tele_waterlevel,บ้านคลองมุย หมู่ที่ 13
-1203496292,tele_waterlevel,สะพานคลองแม่มอญ
-1203496240,tele_waterlevel,บ้านประดู่
-1203259628,tele_waterlevel,บ้านสหกรณ์ร่มเกล้า
-1203439716,tele_waterlevel,บ้านโนนสาวเอ้
-1203496247,tele_waterlevel,สะพานช้ามแม่น้ำลาว - บ้านโฮ่ง 
-1203485434,tele_waterlevel,ต.น้ำปาด
-1203442919,tele_waterlevel,บ้านวังไทร
-1203496254,tele_waterlevel,สะพานน้ำกอน บ้านพญาแก้ว
-1203496483,tele_waterlevel,เชียงแสน
-1203496288,tele_waterlevel,สะพานน้ำแม่สิน
-1203496226,tele_waterlevel,สะพานทางเข้าชุมชนบ้านปากซวด
-1203496668,tele_waterlevel,ทุ่งใหญ่
-1203488148,tele_waterlevel,แม่น้ำวังที่ อ.สามเงา (W.4A)
-1203496697,tele_waterlevel,สะพานข้ามคลองเดียก
-1203496230,tele_waterlevel,สะพานห้วยน้ำใส
-1203496286,tele_waterlevel,สะพานน้ำแม่จั๊ว
-1203496253,tele_waterlevel,สะพานน้ำยาว บ้านสองแคว
-1203496227,tele_waterlevel,สะพานบ้านสวนปราง
-1203485426,tele_waterlevel,บ้านวังขอนไม้
-1203496704,tele_waterlevel,สะพานข้ามแม่น้ำยมสายเก่า-ตำบลไกรใน
-1203439703,tele_waterlevel,บ้านคลองหินลับ
-1203485422,tele_waterlevel,ห้วยแม่มอก
-1203496560,tele_waterlevel,จะนะ
-1203496245,tele_waterlevel,สะพานข้ามห้วยแม่รวม บ้านแม่รวม
-1203496231,tele_waterlevel,สะพานข้ามคลองห้วยกรวด
-1203442915,tele_waterlevel,บ้านหินดาน
-1203496219,tele_waterlevel,บ้านตอง
-1203496936,tele_waterlevel,โพธิ์ประทับช้าง
-1203496300,tele_waterlevel,คลองเบตง (ชุมชนกุนุงจนอง)
-1203496757,tele_waterlevel,สวนผึ้ง
-1203496257,tele_waterlevel,สะพานห้วยน้ำสาย
-1203496228,tele_waterlevel,สะพานข้ามคลองหวาด
-1203496274,tele_waterlevel,สะพานแม่น้ำปิง
-1203496237,tele_waterlevel,สะพานแม่น้ำลาว
-1203496262,tele_waterlevel,คลองแม่รำพัน 1
-1203476809,tele_waterlevel,บ้านโพรงเข้
-1203496653,tele_waterlevel,พิชัย
-1203208079,tele_waterlevel,บ้านนิคม
-1203496306,tele_waterlevel,สะพานคลองสะตอ
-1203496217,tele_waterlevel,ลำน้ำกูน
-1203496255,tele_waterlevel,สะพานแม่น้ำว้า บ้านบ่อหยวก
-1203496250,tele_waterlevel,สะพานน้ำแม่สา
-1203496304,tele_waterlevel,สะพานคลองจันทเขลม
-1203496279,tele_waterlevel,สะพานน้ำแม่คะ 
-1203476797,tele_waterlevel,บ้านหนองไผ่
-1203496235,tele_waterlevel,สะพานข้ามแม่น้ำปัตตานี
-1203485432,tele_waterlevel,บ้านบ่อวัง
-1203496856,tele_waterlevel,สะพานอิงอุดม
-1203496828,tele_waterlevel,สะพานแม่วงก์
-1203496259,tele_waterlevel,สะพานห้วยแม่ถาบ้านปาหุ่ง
-1203496260,tele_waterlevel,สะพานน้ำมวบ บ้านน้ำมวบ
-1203496266,tele_waterlevel,สะพานน้ำห้วยสำราญ
-1203442923,tele_waterlevel,ชุมชนประชาบำรุง
-1203496660,tele_waterlevel,เมืองอุตรดิตถ์
-1203496675,tele_waterlevel,สะพานข้ามคลองตะโก
-1203496256,tele_waterlevel,สะพานน้ำขว้าง บ้านร้องแง
-1203496484,tele_waterlevel,ห้วยผาตั้ง
-1203496705,tele_waterlevel,สะพานข้ามแม่น้ำยมสายเก่า-วัดปากน้ำ
-1203496690,tele_waterlevel,คลองสามบาท บ้านกุดพิมาน
-1203496707,tele_waterlevel,สะพานข้ามคลองไชยา
-1203496658,tele_waterlevel,เวียงสา
-1203496874,tele_waterlevel,เสนา (ทุ่งบางบาล-บ้านแพน)
-1203496663,tele_waterlevel,ตรอน
-1203476798,tele_waterlevel,บ้านกลาง
-1203496749,tele_waterlevel,ฝายพับได้หนองเล็งทราย
-1203488842,tele_waterlevel,เขื่อนบางลาง อ.บันนังสตา จ.ยะลา
-1203496846,tele_waterlevel,โรงเรียนวัดโคกโพธิ์สถิตย์
-1203246761,tele_waterlevel,บ้านเจดีย์งาม
-1203439697,tele_waterlevel,บ้านวังปลัด
-1203332519,tele_waterlevel,บ้านท่าโป่งแดง
-1203476814,tele_waterlevel,บ้านเขาน้อย
-1203476799,tele_waterlevel,บ้านหนองหญ้าปล้อง
-1203492832,tele_waterlevel,บ้านป่าขะ
-1203476813,tele_waterlevel,บ้านทุ่งแฝก
+1248011307,tele_waterlevel,บ้านขนงพระเหนือ
+1248017722,tele_waterlevel,สะพานธรรมจักร(วัดธรรมามูล)
+1247993384,tele_waterlevel,ที่ว่าการอ.นครชัยศรี
+1248017530,tele_waterlevel,สะพานแม่น้ำแควใหญ่
+1247993388,tele_waterlevel,วัดบางไผ่นารถ
+1248018035,tele_waterlevel,สะพานต้นน้ำ (เกาะแก้ว-ตลิ่งสูง)
+1248017942,tele_waterlevel,เมืองยะลา
+1248014574,tele_waterlevel,บ้านหัวสะพาน
+1247993387,tele_waterlevel,ร.ร.บ้านสามพราน
+1248017694,tele_waterlevel,คลองชะอวด
+1248005272,tele_waterlevel,กรมชลประทานสามเสน
+1247993386,tele_waterlevel,บ้านบางการ้อง
+1248018046,tele_waterlevel,ปากรอ
+1248018090,tele_waterlevel,บางเลน
+1247679811,tele_waterlevel,สะพานตาบัว บ้านยาเด๊ะ
+1248018091,tele_waterlevel,สะพานนครชัยศรี
+1248005298,tele_waterlevel,สะพานหัวเวียง
+1248017731,tele_waterlevel,สะพานนวลฉวี
+1248017795,tele_waterlevel,นครไทย
+1248017732,tele_waterlevel,สะพานกรุงเทพ
+1248017690,tele_waterlevel,บางน้ำเปรี้ยว
+1248017539,tele_waterlevel,น้ำตกโตนแพรทอง
+1247963710,tele_waterlevel,บ้านหาดทรายแก้ว 
+1248018036,tele_waterlevel,สะพานแม่เล่ย์
+1248017979,tele_waterlevel,เมืองแกลง
+1248017702,tele_waterlevel,บ่อดินขาว
+1248017923,tele_waterlevel,สะพานข้ามคลองอู่ตะเภา
+1247911175,tele_waterlevel,ประปายโสธร
+1248017802,tele_waterlevel,พระรามสอง
+1248018089,tele_waterlevel,วัดท่าเจดีย์ (TTC06)
+1248014614,tele_waterlevel,บ้านนาสีทอง
+1248017689,tele_waterlevel,บางปะกง
+1248018093,tele_waterlevel,สองพี่น้อง
+1248018042,tele_waterlevel,สะพานกะลูบี บ้านสายปารี
+1248017968,tele_waterlevel,สะพานนางพระยา-บางหลวง ชุมชนปากนคร
+1248007435,tele_waterlevel,วัดโชติการาม อ.เมืองสุราษฎร์ธานี
+1247963707,tele_waterlevel,บ้านบองอ 
+1248018071,tele_waterlevel,ลำเซบาย
+1248014595,tele_waterlevel,หน้าวัดภูผาพิมุข
+1248017780,tele_waterlevel,สะพานค่ายบางระจัน
+1248017730,tele_waterlevel,บางปะอิน
+1247993385,tele_waterlevel,บ้านวัดพระรูป
+1248017955,tele_waterlevel,แม่น้ำลี้ บ้านโฮ่ง
+1248018034,tele_waterlevel,เมืองอุทัยธานี
+1248018041,tele_waterlevel,สะพานไอร์ปาโจ
+1248017948,tele_waterlevel,เมืองตาก
+1248017469,tele_waterlevel,สะพานท่าสำเภา
+1248017798,tele_waterlevel,เมืองลพบุรี
+1248017671,tele_waterlevel,ปตร. คลองตาสด
+1246505824,tele_waterlevel,บางระกำ
+1248017900,tele_waterlevel,สะพานบ้านแก่งโพธิ์
+1248016556,tele_waterlevel,หน้าเขื่อนปากมูล
+1248017668,tele_waterlevel,สวนศรีนครเขื่อนขันธ์
+1248017681,tele_waterlevel,คลองระพีพัฒน์แยกใต้ หนองเสือ
+1248017677,tele_waterlevel,คลองทวีวัฒนา ท้ายปตร.ทวีวัฒนา
+1248017676,tele_waterlevel,คลองมหาสวัสดิ บางกรวย-สวนผัก
+1248005281,tele_waterlevel,บ้านป้อม
+1248016079,tele_waterlevel,แม่น้ำชี ฝายมหาสารคาม
+1248008590,tele_waterlevel,บ้านแสนตอ
+1247963685,tele_waterlevel,บ้านบูเก๊ะตา
+1248017941,tele_waterlevel,บันนังสตา
+1248018092,tele_waterlevel,เมืองสมุทรสาคร
+1248018116,tele_waterlevel,ชุมแสงสงคราม
+1248017801,tele_waterlevel,บ้านแพ้ว
+1248017773,tele_waterlevel,บางตะบูนและบางตะบูนออก
+1248000094,tele_waterlevel,สะพานอำเภอเขาสมิง
+1248018082,tele_waterlevel,สถานีสูบน้ำคลองระบายชัยนาท-ป่าสัก 2 (ทุ่งเชียงราก)
+1248018079,tele_waterlevel,สถานีสูบน้ำปากคลองสายห้วยแก้ว (ทุ่งซ้ายคลองชัยนาท)
+1247993367,tele_waterlevel,สะพานข้ามแม่น้ำแม่กลองหน้าศาลากลางจ.กาญจนบุรี
+1248018118,tele_waterlevel,ศาลาดิน
+1248017913,tele_waterlevel,สะพานข้ามคลองบางม่วง
+1248018108,tele_waterlevel,เมืองตราด
+1248017896,tele_waterlevel,ปตร.ธรณิศนฤมิต-เหนือน้ำ
+1247993372,tele_waterlevel,บ้านหนองบัว
+1248018080,tele_waterlevel,สถานีสูบน้ำปากคลองสระตาแวว (ทุ่งซ้ายคลองชัยนาท)
+1248016551,tele_waterlevel,แม่น้ำมูล ท้ายแก่งสะพือ (M.11B)
+1247999030,tele_waterlevel,บางระกำ
+1248017709,tele_waterlevel,ฝาง
+1248016554,tele_waterlevel,แม่น้ำมูล บ้านคันไร่
+1248005282,tele_waterlevel,บ้านบางหลวงโดด
+1248017797,tele_waterlevel,บางปะหัน
+1247923374,tele_waterlevel,บ้านสบสอย
+1248017886,tele_waterlevel,เชียรใหญ่
+1248017470,tele_waterlevel,คลองสุหงาบารู หมู่ที่ 4
+1248017943,tele_waterlevel,สะพานบ้านตรังพัฒนา
+1248018103,tele_waterlevel,พุนพิน 3
+1248017684,tele_waterlevel,คลองจระเข้ใหญ่ บางเสาธง (วัดศรีวารีน้อย)
+1248005292,tele_waterlevel,สะพานปรีดี-ธำรง
+1248017728,tele_waterlevel,คลองบางบาล
+1248014608,tele_waterlevel,บ้านคลองลำ
+1248017792,tele_waterlevel,เมืองกาญจนบุรี
+1248017675,tele_waterlevel,คลองเปรมประชากร หลักหก
+1248018110,tele_waterlevel,วังกระแจะ
+1248017460,tele_waterlevel,สะพานวัดมงคลร่วมใจ (บ้านวังสาร)
+1248017686,tele_waterlevel,คลองนราภิรมย์ (บางเลน)
+1248000098,tele_waterlevel,เทศบาลเมือง
+1248017937,tele_waterlevel,หนองไผ่
+1248017670,tele_waterlevel,ปตร. คลองลัดบางยอ 2
+1248008917,tele_waterlevel,น้ำพรม อ.เกษตรสมบูรณ์
+1248018081,tele_waterlevel,ทรบ. ปากคลองห้าวา (ทุ่งท่าวุ้ง)
+1248017727,tele_waterlevel,คลองบางหลวง
+1248011320,tele_waterlevel,ตำบลในเมือง
+1248018087,tele_waterlevel,สามชุก
+1248006029,tele_waterlevel,ฝายคลองท่าเลา
+1248017669,tele_waterlevel,ปตร.วัดบางกระเจ้านอก
+1248018101,tele_waterlevel,พุนพิน 1
+1248017679,tele_waterlevel,คลองมหาชัย วัดพันท้ายนรสิงห์
+1247999032,tele_waterlevel,บ้านราชช้างขวัญ
+1248017914,tele_waterlevel,สะพานข้ามคลองลำปำ
+1248005290,tele_waterlevel,วัดเกยไชยเหนือ
+1247999053,tele_waterlevel,บ้านหนองกระท้าว
+1248009697,tele_waterlevel,สว่างแดนดิน
+1248011315,tele_waterlevel,บ้านซึม
+1246875828,tele_waterlevel,สะพานบ้านแหลมโตนด
+1247963692,tele_waterlevel,บ้านไสหาร
+1248018049,tele_waterlevel,ละงู
+1248018085,tele_waterlevel,สะพานคง-ศุข ศรีสวัสดิ์
+1248017939,tele_waterlevel,นครหลวง
+1248018068,tele_waterlevel,ลำน้ำอูน
+1248017946,tele_waterlevel,ท่ายาง
+1248017734,tele_waterlevel,เสนา
+1248017520,tele_waterlevel,สะพานน้ำปี้ เชียงม่วน
+1248000101,tele_waterlevel,ตำบลท่าหลวง
+1247911179,tele_waterlevel,บ้านฟ้าหยาด
+1248018102,tele_waterlevel,พุนพิน 2
+1248017890,tele_waterlevel,องครักษ์
+1248017719,tele_waterlevel,สะพานเดชาติวงศ์
+1248018052,tele_waterlevel,สวี 1
+1247911187,tele_waterlevel,บ้านดอนขยอม
+1248014578,tele_waterlevel,บ้านเคียนซา
+1248017922,tele_waterlevel,สะพานเทพาสันติสุข
+1248005283,tele_waterlevel,บ้านบางบาล
+1248017925,tele_waterlevel,สะพานข้ามคลองระโนด
+1248012800,tele_waterlevel,เมืองอุดรธานี
+1248000099,tele_waterlevel,บ้านหน้าเมือง
+1248018066,tele_waterlevel,คลองปาว
+1248014559,tele_waterlevel,บ้านปายอยือนิ 
+1248017875,tele_waterlevel,ตะพานหิน
+1248017729,tele_waterlevel,พระนครศรีอยุธยา
+1247999028,tele_waterlevel,สามง่าม
+1248017688,tele_waterlevel,คลองลาดพร้าว วัดบางบัว
+1248017960,tele_waterlevel,เมืองปราจีนบุรี
+1248018067,tele_waterlevel,ห้วยยัง
+1248000093,tele_waterlevel,สะพานวัดจันทนาราม
+1248005287,tele_waterlevel,บ้านโคกหม้อ
+1248017720,tele_waterlevel,พยุหะคีรี
+1248017457,tele_waterlevel,ลำน้ำกวงสะพานศรีดอนชัย
+1248011326,tele_waterlevel,สะพานเสรีประชาธิปไตย
+1248017901,tele_waterlevel,ปตร.บ้านนาคู่-เหนือน้ำ
+1248017693,tele_waterlevel,คลองระพีพัฒน์แยกตก
+1248017682,tele_waterlevel,คลองหกวา ลำลูกกา คลอง8
+1248017685,tele_waterlevel,คลองพระพิมล (ไทรน้อย)
+1248017898,tele_waterlevel,ปตร. ห้วยแคน-เหนือน้ำ
+1248017699,tele_waterlevel,เขื่องใน
+1248011310,tele_waterlevel,บ้านโนนค่า
+1248018088,tele_waterlevel,เมืองสุพรรณบุรี
+1248017970,tele_waterlevel,ท้ายกว๊านพะเยา
+1248017953,tele_waterlevel,สะพานแม่น้ำทา
+1248016550,tele_waterlevel,แม่น้ำมูล วัดปากโดม
+1247790331,tele_waterlevel,นายายอาม
+1248017905,tele_waterlevel,สะพานน้ำก่ำ บ้านหนองแคน
+1248017791,tele_waterlevel,สุวรรณคูหา
+1248017733,tele_waterlevel,คลองพระยาบรรลือ
+1248018097,tele_waterlevel,คลองนางน้อย
+1248017938,tele_waterlevel,ท่าเรือ
+1248000076,tele_waterlevel,อ.ศรีมหาโพธิ์
+1248017507,tele_waterlevel,สะพานน้ำแม่แตง
+1248017706,tele_waterlevel,แม่อาย
+1248017526,tele_waterlevel,สะพานคลองท่าสะแก
+1248017788,tele_waterlevel,นาทวี
+1248016072,tele_waterlevel,ลำพะเนียง อ.เมือง
+1248008591,tele_waterlevel,อ.น้ำปาด (N.33)
+1248017781,tele_waterlevel,สะพานคลองส่งน้ำชลประทาน บ้านตลาดใหม่
+1248017736,tele_waterlevel,คลองผันน้ำยม-น่าน3
+1248017784,tele_waterlevel,สะพานคลองส่งน้ำชลประทาน บ้านสร่างโศก
+1247999038,tele_waterlevel,บ้านเด่นสำโรง
+1248018032,tele_waterlevel,เมืองสระแก้ว
+1248017800,tele_waterlevel,สะพานข้ามลำน้ำเชิญ (มิตรผลหนองเรือ)
+1248018100,tele_waterlevel,ตาพระยา
+1248005291,tele_waterlevel,บ้านท่างิ้ว
+1248017876,tele_waterlevel,ชุมแสง
+1248017924,tele_waterlevel,สะพานสวนเฉลิมพระเกียรติ 72 พรรษามหาราชินี
+1248018115,tele_waterlevel,สะพานนครป่าหมากร่วมใจ
+1248017525,tele_waterlevel,สะพานพระร่วงข้ามน้ำแควน้อย
+1248018117,tele_waterlevel,ชุมชนลีเล็ด
+1248008588,tele_waterlevel,บ้านหาดสองแคว (N.60)
+1248017486,tele_waterlevel,สะพานห้วยแม่สาว
+1248005285,tele_waterlevel,บ้านศาลเจ้าไก่ต่อ
+1248005277,tele_waterlevel,บ้านบางแก้ว
+1248012677,tele_waterlevel,ปตร. คลองลัดบางยอ 1
+1248018143,tele_waterlevel,กงไกรลาศ
+1248005284,tele_waterlevel,บ้านหาดทนง
+1248011308,tele_waterlevel,บ้านสัมฤทธิ์
+1248014586,tele_waterlevel,สะพานเทศบาล 2
+1248017674,tele_waterlevel,คลองลาดพร้าว ท้ายปตร.คลอง2
+1248018075,tele_waterlevel,ปตร.ลาดชะโด (ทุ่งผักไห่)
+1248005275,tele_waterlevel,ค่ายจิรประวัติ
+1248005295,tele_waterlevel,ท้ายเขื่อนพระรามหก
+1248017865,tele_waterlevel,ประโคนชัย
+1247999051,tele_waterlevel,ต.ในเมือง
+1248014587,tele_waterlevel,บ้านคลองหวะ
+1247999027,tele_waterlevel,บ้านกง
+1247999031,tele_waterlevel,สะพานสุพรรณกัลยา 
+1248018047,tele_waterlevel,บางกล่ำ
+1248018112,tele_waterlevel,คลองประณีต บ.ตลุง
+1248018048,tele_waterlevel,เมืองสตูล
+1247991275,tele_waterlevel,สะพานนวรัฐ
+1247999035,tele_waterlevel,ท้ายเขื่อนนเรศวร
+1248014606,tele_waterlevel,บ้านม่วงก็อง
+1247991277,tele_waterlevel,บ้านแม่แต
+1247928863,tele_waterlevel,บ้านเกาะคา
+1248017735,tele_waterlevel,คลองผันน้ำยม-น่าน2
+1248011314,tele_waterlevel,บ้านบัว
+1247911196,tele_waterlevel,บ้านโนนตูม
+1248017678,tele_waterlevel,คลองภาษีเจริญ เพชรเกษม69
+1247993391,tele_waterlevel,บ้านสาระเห็ด
+1248014584,tele_waterlevel,บ้านตลาดเก่า
+1247911178,tele_waterlevel,บ้านท่าสะแบง
+1248017710,tele_waterlevel,เมืองจันทบุรี
+1247993376,tele_waterlevel,บ้านปากแซง
+1248018038,tele_waterlevel,คลองกลาง
+1247993397,tele_waterlevel,เขาลูกช้าง
+1248017785,tele_waterlevel,สะพานแมน้ำปาสัก บ้านนาโฉง
+1248005274,tele_waterlevel,สถานีแพดับเพลิง
+1248017880,tele_waterlevel,เมืองพิษณุโลก
+1248000078,tele_waterlevel,บ้านสระขวัญ
+1248017683,tele_waterlevel,ปากคลองพระองค์เจ้าฯ (บางน้ำเปรี้ยว)
+1247911182,tele_waterlevel,บ้านม่วงลาด
+1247999020,tele_waterlevel,หน้าวัดศรีภิรมย์
+1248017459,tele_waterlevel,คลองสรอย วัดแม่ขมวก
+1248017881,tele_waterlevel,วังทอง
+1248018061,tele_waterlevel,สะพานข้ามลำปะเทีย
+1247998336,tele_waterlevel,บ้านมาง
+1248011316,tele_waterlevel,บ้านสีถาน
+1248018104,tele_waterlevel,ท่าขนอม
+1248017726,tele_waterlevel,เมืองอ่างทอง
+1248016555,tele_waterlevel,แม่น้ำมูล เมืองอุบลราชธานี (M.7)
+1248014607,tele_waterlevel,บ้านเสาธง
+1247999043,tele_waterlevel,ต.ในเมือง
+1248017860,tele_waterlevel,ชุมพวง
+1248017721,tele_waterlevel,ปตร.มโนรมย์
+1248005276,tele_waterlevel,บ้านบางพุทรา
+1248011311,tele_waterlevel,บ้านโคกกรวด
+1248017478,tele_waterlevel,บ้านคลองใส หมู่ที่ 8
+1248018076,tele_waterlevel,ปตร.ลาดชิด (ทุ่งผักไห่)
+1248017889,tele_waterlevel,ท่าศาลา
+1248011309,tele_waterlevel,บ้านเขื่องใน
+1248014604,tele_waterlevel,บ้านท่านา
+1248017936,tele_waterlevel,เมืองเพชรบูรณ์
+1248018039,tele_waterlevel,สะพานนาทม
+1248017456,tele_waterlevel,สะพานลำน้ำยาม
+1247911097,tele_waterlevel,ลำน้ำก่ำ
+1248005278,tele_waterlevel,ท้ายเขื่อนเจ้าพระยา
+1248017904,tele_waterlevel,ปตร. บ้านนาขาม-ท้ายน้ำ
+1248005286,tele_waterlevel,บ้านปางมะค่า
+1248017692,tele_waterlevel,คลองขนาน
+1248017892,tele_waterlevel,สะพานท่าน้ำ
+1247993389,tele_waterlevel,บ้านสองพี่น้อง
+1248017859,tele_waterlevel,เฉลิมพระเกียรติ
+1248000096,tele_waterlevel,บ้านค่าย
+1248011324,tele_waterlevel,บ้านโพธิ์ตาก
+1248017701,tele_waterlevel,ยางตลาด
+1247999034,tele_waterlevel,บ้านวังนกแอ่น
+1248017635,tele_waterlevel,สะพานลำน้ำเลย
+1248018069,tele_waterlevel,บ้านโพธิ์ชัยทอง
+1248017957,tele_waterlevel,น้ำก้อ
+1248004555,tele_waterlevel,บ้านแม่หล่าย
+1247942614,tele_waterlevel,บ้านหลวงเหนือ
+1248011337,tele_waterlevel,บ้านดอนยาง
+1248017634,tele_waterlevel,อโศก
+1248017698,tele_waterlevel,เมืองขอนแก่น
+1247999042,tele_waterlevel,บ้านท่าแค
+1248011333,tele_waterlevel,บ้านท่าเยี่ยม
+1248017454,tele_waterlevel,สะพานน้ำมวบ (บ้านภูแยง)
+1248018096,tele_waterlevel,เมืองตรัง
+1248000087,tele_waterlevel,บ้านปึก
+1248018150,tele_waterlevel,น้ำแม่งาว
+1248017713,tele_waterlevel,เทิง
+1248017511,tele_waterlevel,สะพานน้ำแม่ต๋ำ
+1248017874,tele_waterlevel,บางกระทุ่ม
+1248017505,tele_waterlevel,สะพานน้ำแม่แจ่ม
+1248018058,tele_waterlevel,ฝ่ายส่งน้ำและบำรุงรักษาที่ 2
+1247998331,tele_waterlevel,บ้านหล่ายแก้ว
+1247897467,tele_waterlevel,บ้านโนนสมบูรณ์
+1247998344,tele_waterlevel,บ้านสบแปะ
+1247928880,tele_waterlevel,บ้านวังพร้าว
+1248017527,tele_waterlevel,สะพานน้ำเข็ก
+1248017738,tele_waterlevel,ท่อทองแดง1
+1248011329,tele_waterlevel,ศูนย์วิจัยและพัฒนาประมงน้ำจืดสุรินทร์
+1248004585,tele_waterlevel,บ้านหัวสะพาน
+1248017921,tele_waterlevel,สะพานข้ามคลองเทพา
+1248017954,tele_waterlevel,แม่น้ำทา
+1248017540,tele_waterlevel,บ้านโจตาดา
+1248017714,tele_waterlevel,แม่จัน
+1247998341,tele_waterlevel,บ้านริมใต้
+1247999055,tele_waterlevel,บ้านท่าสะแก
+1248017723,tele_waterlevel,สรรพยา
+1248008920,tele_waterlevel,ลำน้ำพอง โรงเรียนลำน้ำพอง
+1248017639,tele_waterlevel,สะพานบังอี่
+1247998349,tele_waterlevel,บ้านสบวิน
+1248017872,tele_waterlevel,เมืองน่าน
+1247999023,tele_waterlevel,บ้านสามเรือน
+1248017980,tele_waterlevel,หนองบัว
+1248017725,tele_waterlevel,พรหมบุรี
+1248017711,tele_waterlevel,แก่งหางแมว
+1247999047,tele_waterlevel,ต.ธานี
+1247999045,tele_waterlevel,บ้านแสนตอ
+1248000077,tele_waterlevel,บ้านเขาฉกรรจ์
+1248017966,tele_waterlevel, สะพานข้ามคลองโคน
+1248007838,tele_waterlevel,แม่น้ำปิงที่ อ.เมืองก้าแพงเพชร (P.7A) 
+1248011330,tele_waterlevel,บ้านด่านกะตา
+1248017963,tele_waterlevel,ศรีมหาโพธิ (KGT6)
+1247993373,tele_waterlevel,บ้านวังเย็น
+1247993374,tele_waterlevel,บ้านยางสูง
+1248011334,tele_waterlevel,บ้านป่าก่อ
+1248017724,tele_waterlevel,อินทร์บุรี
+1248018109,tele_waterlevel,ห้วยแร้ง
+1248008919,tele_waterlevel,ลำน้ำพอง (เหนือฝายหนองหวาย)
+1248000081,tele_waterlevel,บ้านแก่งดินสอ
+1247993368,tele_waterlevel,บ้านลุ่มสุ่ม
+1248000091,tele_waterlevel,บ้านเขาโบสถ์
+1248007836,tele_waterlevel,แม่น้ำปิงที่ อ.เมืองตาก (P.2A)
+1248018098,tele_waterlevel,วังวิเศษ
+1248018147,tele_waterlevel,เมืองสุโขทัย
+1248005294,tele_waterlevel,บ้านท่ารวก
+1248007839,tele_waterlevel,แม่น้ำปิงที่ อ.คลองขลุง (P.15)
+1248017637,tele_waterlevel,สะพานห้วยบังบาต
+1247484589,tele_waterlevel,สะพานท่าข้าม
+1247928712,tele_waterlevel,บ้านไฮ
+1248017950,tele_waterlevel,ขาณุวรลักษบุรี
+1248017542,tele_waterlevel,สะพานมิตรภาพแม่น้ำสายแห่งที่ 1
+1247999054,tele_waterlevel,บ้านชมพู
+1248017687,tele_waterlevel,คลองลาดพร้าว ปากคลอง2สายใต้
+1248017718,tele_waterlevel,หลังสวน
+1247911184,tele_waterlevel,บ้านดอนขนวน
+1247963670,tele_waterlevel,บริเวณสะพานลันตู
+1248014611,tele_waterlevel,บ้านบางศาลา
+1248012646,tele_waterlevel,สะพานข้ามน้ำมูล
+1248000068,tele_waterlevel,บ้านท่าบุญมี
+1248017969,tele_waterlevel,สะพานคลองปากแตระ ชุมชนทะเลสาบสงขลา
+1248017873,tele_waterlevel,แม่น้ำเข็ก (ว้งทอง)
+1247991276,tele_waterlevel,บ้านเชียงดาว
+1248017967,tele_waterlevel,สะพานคลองท่าชนะ ชุมชนบ้านหาดสมบูรณ์
+1248017935,tele_waterlevel,หล่มสัก
+1248018044,tele_waterlevel,คลองหอยโข่ง
+1248017779,tele_waterlevel,สะพานอนุสรณ์ 100 ปีสิงห์หบุรี (สะพานหลวงพ่อแพ 89)
+1248008916,tele_waterlevel,น้ำพอง บ้านผานกเค้า (E.29)
+1247963680,tele_waterlevel,ถนนลูกเสือ
+1248017778,tele_waterlevel,คลองช่องสะเดา
+1248008589,tele_waterlevel,อ.วัดโบสถ์ (N.22A)
+1247911186,tele_waterlevel,บ้านธวัชดินแดง
+1248000069,tele_waterlevel,บ้านวังหมัน
+1248011325,tele_waterlevel,ชุมชนสะพานขาว
+1247999057,tele_waterlevel,บ้านแก่งบัวคำ
+1247998343,tele_waterlevel,บ้านกลาง
+1248007842,tele_waterlevel,แม่น้ำปิงที่ อ.บ้านตาก
+1247911180,tele_waterlevel,บ้านท่าเม่า
+1248017691,tele_waterlevel,พนมสารคาม
+1248017878,tele_waterlevel,น้ำปาด
+1247911193,tele_waterlevel,บ้านท่าห้วยหลัว
+1247911183,tele_waterlevel,บ้านวังหิน
+1248004558,tele_waterlevel,หน้าสำนักงานป่าไม้
+1247993369,tele_waterlevel,บ้านวังขนาย
+1248014589,tele_waterlevel,บ้านปะเหลียนใน
+1248017483,tele_waterlevel,ฝายคลองท่าโลน
+1247999033,tele_waterlevel,บ้านท่างาม
+1248007231,tele_waterlevel,สะพานท่าสาป อ.เมือง จ.ยะลา
+1247911190,tele_waterlevel,บ้านนาหลัก
+1248014591,tele_waterlevel,บ้านท่าสาบ
+1247999059,tele_waterlevel,ต.ตาลเดี่ยว
+1247899581,tele_waterlevel,บ้านอาพาธ
+1248017700,tele_waterlevel,เมืองมหาสารคาม
+1248017799,tele_waterlevel,ตลาดเก่าตะกั่วป่า
+1248017908,tele_waterlevel,ปตร.บ้านตับเต่า-เหนือน้ำ
+1248000079,tele_waterlevel,บ้านแก้ง
+1247999058,tele_waterlevel,ต.ในเมือง
+1248018077,tele_waterlevel,ปตร กุฎิ (ทุ่งป่าโมก)
+1247999048,tele_waterlevel,หน้าอำเภอโพทะเล
+1248017782,tele_waterlevel,สะพานป่าโมก
+1248017952,tele_waterlevel,เมืองกำแพงเพชร (P7A)
+1248011341,tele_waterlevel,บ้านเชียงเพ็ง
+1247998335,tele_waterlevel,สะพานวงแหวนรอบ 3
+1248014583,tele_waterlevel,บ้านรมณีย์
+1247963647,tele_waterlevel,บ้านท้า่ยนา
+1248014613,tele_waterlevel,บ้านท่าแค
+1248017903,tele_waterlevel,สะพานมิตรภาพท่าลาดปากบัง
+1248017461,tele_waterlevel,สะพานบางไตประชาบริรักษ์
+1248018040,tele_waterlevel,ศรีสงคราม
+1247845697,tele_waterlevel,ปตร.บางแก้ว (ทุ่งผักไห่)
+1247928867,tele_waterlevel,บ้านท่าล้อ
+1247462832,tele_waterlevel,แม่น้ำชี บ้านหินกอง
+1248017975,tele_waterlevel,สะพานคลองแม่กาหลง (ม.พะเยา)
+1248017864,tele_waterlevel,พิบูลมังสาหาร
+1248016075,tele_waterlevel,ลำเชิญ อ.ชุมแพ (ท้ายฝายโครงการชลประทานน้ำเชิญ)
+1248017976,tele_waterlevel,โพธาราม
+1248018149,tele_waterlevel,แม่ต้า
+1248017477,tele_waterlevel,บ้านคลองวาย หมู่ที่ 7
+1248017897,tele_waterlevel,ปตร.ธรณิศนฤมิต-ท้ายน้ำ
+1248017884,tele_waterlevel,น้ำสา
+1248014601,tele_waterlevel,บ้านนาป่า
+1248017502,tele_waterlevel,สะพานน้ำแม่กลาง
+1248014582,tele_waterlevel,บ้านเก็ตโฮ่
+1247947643,tele_waterlevel,บ้านสันปู่เลย
+1247999029,tele_waterlevel,บ้านคลองตาล
+1244572036,tele_waterlevel,เมืองชุมพร
+1245506299,tele_waterlevel,คลองวังเจ้า
+1247998350,tele_waterlevel,บ้านแลง
+1248008587,tele_waterlevel,บ้านผาจุก
+1247999025,tele_waterlevel,บ้านแม่เชียงราย
+1247479192,tele_waterlevel,บ้านซำฆ้อ
+1248017466,tele_waterlevel,สะพานข้ามคลองวังเคียน
+1248017485,tele_waterlevel,สะพานห้วยแม่ตาช้าง
+1248014571,tele_waterlevel,บ้านปรีกี
+1248004563,tele_waterlevel,บ้านโป่งปูเฟือง
+1248017707,tele_waterlevel,เชียงดาว
+1248018099,tele_waterlevel,รัษฎา
+1248011327,tele_waterlevel,บ้านสตึก
+1246673728,tele_waterlevel,ปะเหลียน
+1248017906,tele_waterlevel,ปตร.บ้านนาบัว-เหนือน้ำ
+1247999044,tele_waterlevel,บ้านย่านรี
+1248011340,tele_waterlevel,บ้านวังชมภู
+1248017506,tele_waterlevel,สะพานน้ำแม่งัด
+1248018146,tele_waterlevel,เมืองแพร่
+1248017458,tele_waterlevel,ลำน้ำสานบ้านทุ่งยาวเหนือ
+1248018051,tele_waterlevel,ควนกาหลง
+1248014579,tele_waterlevel,บ้านย่านตาขาว
+1248017499,tele_waterlevel,สะพานน้ำชี
+1247993365,tele_waterlevel,สะพานค่ายหลวง
+1247998347,tele_waterlevel,บ้านสบแม่สะป๊วด
+1248017480,tele_waterlevel,สะพานข้ามแม่น้ำลาว-บ้านป่าสัก
+1247998345,tele_waterlevel,บ้านช่อแล
+1248018148,tele_waterlevel,สะพานหนองจันทร์
+1248014598,tele_waterlevel,บ้านป่าหมาก
+1248014597,tele_waterlevel,บ้านควนกลาง (1)
+1248017863,tele_waterlevel,เมืองศรีสะเกษ
+1248017887,tele_waterlevel,ถ้ำพรรณรา
+1248017703,tele_waterlevel,เขาวง
+1247911181,tele_waterlevel,บ้านค่าย
+1248017951,tele_waterlevel,เก้าเลี้ยว
+1247998329,tele_waterlevel,บ้านเมืองกึ๊ด
+1248018114,tele_waterlevel,คลองเขาระกำ
+1248014617,tele_waterlevel,บ้านหาดใหญ่ใน
+1248008915,tele_waterlevel,น้ำพอง อ.สีชมพู
+1248004570,tele_waterlevel,สะพานท่าลี่
+1248014593,tele_waterlevel,บ้านท่าข้าม
+1247998348,tele_waterlevel,บ้านโป่ง
+1248017974,tele_waterlevel,สะพานคลองแม่ต๋ำ
+1248017958,tele_waterlevel,สะพานข้ามคลองบ้านท่าวัง
+1247911177,tele_waterlevel,บ้านท่านางเลื่อน
+1248017902,tele_waterlevel,ปตร. บ้านนาคู่-ท้ายน้ำ
+1248017930,tele_waterlevel,สะพานข้ามคลองปากหมาก
+1247998332,tele_waterlevel,บ้านป่าซาง
+1248017940,tele_waterlevel,สะพานเตาปูน-ตาลเดี่ยว
+1248012809,tele_waterlevel,คลองนาท่อม
+1248014602,tele_waterlevel,บ้านท่าไม้ลาย
+1248016553,tele_waterlevel,ลำโดมใหญ่ บ้านนาเยีย
+1248017515,tele_waterlevel,สะพานบ้านตึก
+1248017861,tele_waterlevel,ราษีไศล
+1248014600,tele_waterlevel,บ้านกลาง
+1248018106,tele_waterlevel,พระแสง
+1248017934,tele_waterlevel,ปาย
+1248014576,tele_waterlevel,บ้านปันจอร์
+1248017932,tele_waterlevel,สะพานถนนสายเอเซีย 4265
+1248008539,tele_waterlevel,แม่น้ำมูล อ.ราษีไศล (M.5)
+1247999039,tele_waterlevel,ต.น้ำปาด
+1248011322,tele_waterlevel,สำนักเทคโนโลยีชีวภัณฑ์สัตว์
+1248014585,tele_waterlevel,บ้านซากอ
+1248000086,tele_waterlevel,บ้านเขาวังไทร
+1247999036,tele_waterlevel,บ้านฟากท่า
+1248007227,tele_waterlevel,สะพานท้ายเขื่อนบางลาง อ.บันนังสตา จ.ยะลา
+1248017538,tele_waterlevel,สะพานบ้านคีรีวง คลองท่าดี
+1247947636,tele_waterlevel,บ้านสลวงนอก
+1248014592,tele_waterlevel,บ้านย่านดินแดง
+1248017737,tele_waterlevel,คลองผันน้ำยม-น่าน4
+1248005293,tele_waterlevel,บ้านป่า
+1248000080,tele_waterlevel,บ้านทุ่งแฝก
+1247993370,tele_waterlevel,บ้านทุ่งนานางหรอก
+1248007832,tele_waterlevel,แม่น้ำปิงที่ อ.ฮอด
+1248006124,tele_waterlevel,ศาลเจ้าพ่อพญาอ้น
+1247999041,tele_waterlevel,บ้านบ่อวัง
+1248018074,tele_waterlevel,ปตร.ปลายคลองบางซอ (ทุ่งเจ้าเจ็ด)
+1247998333,tele_waterlevel,บ้านห้วยสัก
+1247998338,tele_waterlevel,บ้านแม่แตง
+1248004556,tele_waterlevel,บ้านวังชิ้น
+1247993396,tele_waterlevel,สะพานบ้านลาด
+1248008583,tele_waterlevel,อ.เมืองน่าน (N.1)
+1248018070,tele_waterlevel,ลำน้ำพุง
+1248007756,tele_waterlevel,สะพานบ้าน กม.29 อ.เบตง จ.ยะลา
+1248017521,tele_waterlevel,สะพานพญาอาทิตราช
+1248018045,tele_waterlevel,สะเดา
+1247917946,tele_waterlevel,บ้านแม่ขรี
+1247999024,tele_waterlevel,บ้านวังหมัน
+1248017959,tele_waterlevel,กบินทร์บุรี
+1248017497,tele_waterlevel,สะพานแม่น้ำงาว
+1248011312,tele_waterlevel,บ้านเขวา
+1248011331,tele_waterlevel,บ้านหินโคนเก่า
+1248017893,tele_waterlevel,สะพานข้ามคลองกระบี่ใหญ่ 1
+1247911191,tele_waterlevel,บ้านฟากเลย
+1248018064,tele_waterlevel,คลองแม่พุง
+1248017866,tele_waterlevel,สตึก
+1248008584,tele_waterlevel,อ.เวียงสา (N.13A) น้ำน่าน
+1248017789,tele_waterlevel,วังสะพุง
+1248007767,tele_waterlevel,อาคารสูบน้ำดิบ กปภ. อ.ยะหา จ.ยะลา
+1248018145,tele_waterlevel,โพธิ์ประทับช้าง
+1248014562,tele_waterlevel,คลองหาดส้มแป้น
+1248017964,tele_waterlevel,ปราณบุรี
+1248017894,tele_waterlevel,สะพานคลองอิปัน
+1247998346,tele_waterlevel,บ้านแม่อีไฮ
+1248014590,tele_waterlevel,บ้านมูโน๊ะ
+1247998328,tele_waterlevel,สะพานเสตุวารี
+1248018113,tele_waterlevel,คลองโสน
+1247928713,tele_waterlevel,บ้านหนองนาว
+1248017452,tele_waterlevel,ลำน้ำขว้าง (ฝายจ้าว)
+1248017708,tele_waterlevel,แม่แตง
+1247484577,tele_waterlevel,บ้านแม่หวาน
+1248017972,tele_waterlevel,สะพานบ้านเจดีย์งาม
+1248011343,tele_waterlevel,บ้านเมืองคง
+1248018105,tele_waterlevel,เวียงสระ
+1248005297,tele_waterlevel,บ้านพูลทรัพย์
+1248018053,tele_waterlevel,สวี 2
+1248017697,tele_waterlevel,ชนบท
+1248014560,tele_waterlevel,วัดถลุงทอง อำเภอร่อนพิบูลย์ 
+1248017529,tele_waterlevel,สะพานคลองสนธิ
+1248017790,tele_waterlevel,เมืองเลย
+1248007834,tele_waterlevel,แม่น้ำปิงที่ อ.สามเงา (P.12C)
+1248007833,tele_waterlevel,ห้วยแม่ตื่นที่ อ.อมก๋อย
+1248017870,tele_waterlevel,ท่าวังผา
+1248017491,tele_waterlevel,สะพานน้ำขว้าง บ้านร้องแง
+1248017536,tele_waterlevel,สะพานคลองวังโตนด
+1248017524,tele_waterlevel,สะพานคลองตรอน
+1248018142,tele_waterlevel,เด่นชัย
+1248011318,tele_waterlevel,บ้านโนนสะอาด
+1248017947,tele_waterlevel,บ้านตาก
+1248017705,tele_waterlevel,ฮอด
+1248017899,tele_waterlevel,ปตร. ห้วยแคน-ท้ายน้ำ
+1248008585,tele_waterlevel,อ.เวียงสา (N.75)  น้ำว้า
+1247999056,tele_waterlevel,บ้านทานตะวัน
+1248014609,tele_waterlevel,บ้านวังครก
+1248017793,tele_waterlevel,ไทรโยค
+1248017493,tele_waterlevel,สะพานน้ำว้า บ้านน้ำว้า
+1248004567,tele_waterlevel,บ้านเมืองมาย
+1244821589,tele_waterlevel,สวรรคโลก
+1248017971,tele_waterlevel,สะพานบ้านต๋ำ
+1247999040,tele_waterlevel,ต.ตาดกลอย
+1248017704,tele_waterlevel,สันทราย
+1248005131,tele_waterlevel,สะพานน้ำแม่ขาน
+1247998326,tele_waterlevel,บ้านน้ำโค้ง
+1248017472,tele_waterlevel,ห้วยแม่แจ่ม
+1247999026,tele_waterlevel,บ้านท่าไผ่
+1248018094,tele_waterlevel,เมืองพังงา
+1247906593,tele_waterlevel,บ้านท่าประดู่
+1248011321,tele_waterlevel,บ้านท่ามะปรางค์
+1248017636,tele_waterlevel,สะพานห้วยน้ำฮวย
+1248017695,tele_waterlevel,บ้านเขว้า
+1248017920,tele_waterlevel,สะพานข้ามห้วยสมอ
+1248017712,tele_waterlevel,เมืองเชียงราย
+1248000074,tele_waterlevel,บ้านเขานางบวช
+1248014577,tele_waterlevel,บ้านฉลุงเหนือ
+1248017638,tele_waterlevel,สะพานห้วยมุก
+1248004584,tele_waterlevel,บ้านแม่คำหลักเจ็ด
+1248017949,tele_waterlevel,สะพานลานดอกไม้
+1247928818,tele_waterlevel,บ้านดอนสลี
+1248004554,tele_waterlevel,บ้านทุ่งหนอง
+1246562374,tele_waterlevel,บ้านใต้
+1247995842,tele_waterlevel,สะพานน้ำแม่สรวย
+1248000100,tele_waterlevel,บ้านขุนซ่อง
+1248018144,tele_waterlevel,บางระกำ
+1248017696,tele_waterlevel,เมืองชัยภูมิ
+1248017912,tele_waterlevel,สะพานข้ามคลองท่าแพ
+1248004561,tele_waterlevel,บ้านปางสา
+1248018050,tele_waterlevel,มะนัง
+1248004566,tele_waterlevel,บ้านดอนชัย
+1248017933,tele_waterlevel,เมืองแม่ฮ่องสอน
+1248017891,tele_waterlevel,สะพานเขานางบวช
+1247897445,tele_waterlevel,บ้านวังตะเคียนทอง
+1248017956,tele_waterlevel,ห้วยแม่ลี้
+1248004559,tele_waterlevel,บ้านน้ำยาว
+1248018086,tele_waterlevel,ด่านช้าง
+1247911176,tele_waterlevel,บ้านตาดโตน
+1248000067,tele_waterlevel,บ้านโนนสุขภูมิ
+1248017537,tele_waterlevel,สะพานคลองปง (คีรีวง)
+1248011317,tele_waterlevel,บ้านลาดบัวขาว
+1248014616,tele_waterlevel,บ้านท่าจีน
+1248017919,tele_waterlevel,สะพานข้ามคลองโมง
+1247993383,tele_waterlevel,สะพานรถยนต์ ร.ร.อนุบาลบางสะพาน
+1248018141,tele_waterlevel,หนองม่วงไข่
+1248017944,tele_waterlevel,เมืองเพชรบุรี
+1248017501,tele_waterlevel,สะพานน้ำลำตะคอง
+1248013150,tele_waterlevel,ศรีสัชนาลัย
+1248000066,tele_waterlevel,อ. กบินทร์บุรี
+1248014596,tele_waterlevel,บ้านบางตง
+1248000083,tele_waterlevel,บ้านนาแขม
+1248017977,tele_waterlevel,บ้านโป่ง
+1248017541,tele_waterlevel,สะพานอูทูนอ่อง บ้านสบสาย
+1247928821,tele_waterlevel,บ้านโป่ง
+1248005124,tele_waterlevel,สะพานแม่ตื่น
+1248018127,tele_waterlevel,เถิน
+1248011328,tele_waterlevel,บ้านพงสวาย
+1248018125,tele_waterlevel,สามเงา
+1248018107,tele_waterlevel,วิภาวดี
+1248018128,tele_waterlevel,เกาะคา
+1247993392,tele_waterlevel,ตลาดท่ายาง
+1248017931,tele_waterlevel,สะพานข้ามคลองท่าชนะ
+1247947657,tele_waterlevel,บ้านหลวง
+1248005289,tele_waterlevel,บ้านดอนใหญ่
+1247963690,tele_waterlevel,บ้านตันหยงมัส
+1248017888,tele_waterlevel,ทุ่งใหญ่
+1247998330,tele_waterlevel,บ้านพันตน
+1247923365,tele_waterlevel,บ้านโห้ง
+1248017504,tele_waterlevel,สะพานน้ำแม่แจ่ม
+1248000088,tele_waterlevel,บ้านฉมัน
+1247999046,tele_waterlevel,บ้านวังขอนไม้
+1248017945,tele_waterlevel,แก่งกระจาน
+1247999052,tele_waterlevel,บ้านหาดไผ่
+1248017871,tele_waterlevel,ภูเพียง
+1248014610,tele_waterlevel,บ้านทุ่งปราบ
+1248017883,tele_waterlevel,แม่น้ำสา
+1248017715,tele_waterlevel,แม่สรวย
+1248014588,tele_waterlevel,บ้านวังพระเคียน
+1248000085,tele_waterlevel,บ้านศรีบัวทอง
+1248014605,tele_waterlevel,บ้านหินดาน
+1248017500,tele_waterlevel,สะพานน้ำห้วยสำราญ
+1248000089,tele_waterlevel,บ้านโป่งโรงเซ็น
+1248014594,tele_waterlevel,บ้านเขาปู่
+1248005296,tele_waterlevel,ท้ายเขื่อนป่าสักชลสิทธิ์
+1248017474,tele_waterlevel,คลองกั้ง
+1247993393,tele_waterlevel,ข้างจวนผู้ว่าฯ
+1248018095,tele_waterlevel,ท่าสะบ้า
+1248017926,tele_waterlevel,สะพานข้ามแม่น้ำยมสายเก่า-ตำบลไกรใน
+1248017640,tele_waterlevel,สะพานห้วยปากแซง
+1248014567,tele_waterlevel,บ้านหูแร่
+1248017516,tele_waterlevel,สะพานน้ำงิม
+1248007840,tele_waterlevel,แม่น้ำวังที่ อ.เถิน (W.3A)
+1248017909,tele_waterlevel,ปตร. บ้านตับเต่า-ท้ายน้ำ
+1247911192,tele_waterlevel,บ้านแก่งบง
+1248011339,tele_waterlevel,บ้านท่าบอแบง
+1248017961,tele_waterlevel,นาดี
+1248017509,tele_waterlevel,สะพานน้ำคลองแม่สอย
+1248017512,tele_waterlevel,สะพานพัฒนามิตรภาพแม่น้ำตุ๋ย
+1248011336,tele_waterlevel,บ้านคำสำราญ
+1248017533,tele_waterlevel,สะพานคลองนางรอง
+1248004560,tele_waterlevel,บ้านผาขวาง
+1248017514,tele_waterlevel,สะพานน้ำงาว
+1247942648,tele_waterlevel,บ้านร่องเคาะ
+1248011319,tele_waterlevel,บ้านโนนสาวเอ้
+1247999037,tele_waterlevel,บ้านวังโป่ง
+1247993382,tele_waterlevel,บ้านช้างแรก
+1248018126,tele_waterlevel,แม่พริก
+1247928797,tele_waterlevel,บ้านกระเหรี่ยงทุ่งพร้าว
+1248007835,tele_waterlevel,ห้วยตากที่ อ.บ้านตาก
+1248014572,tele_waterlevel,บ้านหาดใน 
+1248018057,tele_waterlevel,สะพานโยธาอำนวยพัฒนา
+1246250032,tele_waterlevel,บ้านม่วงป๊อก
+1248011335,tele_waterlevel,บ้านโนนสีไคล
+1247928866,tele_waterlevel,บ้านท่าเดื่อ
+1248018063,tele_waterlevel,สะพานแม่ฟ้าหลวง
+1247963709,tele_waterlevel,บ้านน้ำจืด
+1248018029,tele_waterlevel,ศรีสาคร
+1247993371,tele_waterlevel,บ้านน้ำโจน
+1248017498,tele_waterlevel,สะพานแม่ระมาด
+1246782377,tele_waterlevel,ห้วยแม่สิน
+1248018078,tele_waterlevel,ทุ่งโพธิ์พระยา
+1248014615,tele_waterlevel,บ้านท่าแซะ
+1247947645,tele_waterlevel,บ้านสหกรณ์ร่มเกล้า
+1248007762,tele_waterlevel,สะพานหัวสะพาน อ.บันนังสตา จ.ยะลา
+1247993377,tele_waterlevel,บ้านด่านทับตะโก
+1248017915,tele_waterlevel,สะพานข้ามคลองกะเปอร์
+1248017488,tele_waterlevel,สะพานน้ำยาว บ้านสองแคว
+1247947653,tele_waterlevel,บ้านโป่งดิน
+1248018062,tele_waterlevel,สะพานมิตรภาพรับร่อ-หินแก้ว
+1248007837,tele_waterlevel,ห้วยแม่ท้อที่ อ.เมืองตาก
+1248017481,tele_waterlevel,สะพานช้ามแม่น้ำลาว - บ้านโฮ่ง 
+1248017510,tele_waterlevel,สะพานน้ำวัง
+1247963668,tele_waterlevel,บ้านวังไผ่
+1248008582,tele_waterlevel,อ.ท่าวังผา (N.64)
+1248017973,tele_waterlevel,สะพานข้ามน้ำอิง (I.17)
+1248017962,tele_waterlevel,ประจันตคาม (KGT7A)
+1248017462,tele_waterlevel,สะพานคลองพาย
+1248007841,tele_waterlevel,แม่น้ำวังที่ อ.สามเงา (W.4A)
+1247993364,tele_waterlevel,บ้านบ้องตี้น้อย
+1248017517,tele_waterlevel,สะพานน้ำเงิน
+1248017918,tele_waterlevel,สะพานข้ามคลองเดียก
+1248017716,tele_waterlevel,เชียงแสน
+1248017463,tele_waterlevel,สะพานทางเข้าชุมชนบ้านปากซวด
+1248007769,tele_waterlevel,สะพานเมืองปัตตานี อ.เมือง จ.ปัตตานี
+1248017885,tele_waterlevel,ทุ่งสง
+1248017794,tele_waterlevel,ลิ่นถิ่น
+1248018033,tele_waterlevel,คลองพรหมโหด
+1248014558,tele_waterlevel,สะพานเดชานุชิต
+1248017523,tele_waterlevel,สะพานคลองแม่มอญ
+1248017519,tele_waterlevel,สะพานน้ำแม่สิน
+1248017862,tele_waterlevel,เมืองสุรินทร์
+1248004557,tele_waterlevel,บ้านแม่คำมีตำหนักธรรม
+1248017487,tele_waterlevel,สะพานแม่น้ำน่าน บ้านเปียงก่อ
+1248005106,tele_waterlevel,บ้านคลองมุย หมู่ที่ 13
+1248017928,tele_waterlevel,สะพานคลองแม่น้ำเก่า
+1248017965,tele_waterlevel,หัวหิน
+1248017532,tele_waterlevel,สะพานคลองลำพญาธาร
+1248018028,tele_waterlevel,เมืองระนอง
+1248014563,tele_waterlevel,บ้านบริดอ
+1247963655,tele_waterlevel,บ้านวังไทร
+1248017489,tele_waterlevel,สะพานน้ำกอน บ้านพญาแก้ว
+1248017787,tele_waterlevel,จะนะ
+1248017464,tele_waterlevel,สะพานบ้านสวนปราง
+1247543185,tele_waterlevel,คลองพระปรง
+1248011332,tele_waterlevel,บ้านคลองหินลับ
+1248017490,tele_waterlevel,สะพานแม่น้ำว้า บ้านบ่อหยวก
+1248017467,tele_waterlevel,สะพานห้วยน้ำใส
+1248017518,tele_waterlevel,สะพานน้ำแม่จั๊ว
+1247993378,tele_waterlevel,บ้านหนองไผ่
+1248017492,tele_waterlevel,สะพานห้วยน้ำสาย
+1248017476,tele_waterlevel,บ้านประดู่
+1248017978,tele_waterlevel,สวนผึ้ง
+1248017508,tele_waterlevel,สะพานแม่น้ำปิง
+1248017455,tele_waterlevel,บ้านตอง
+1248017468,tele_waterlevel,สะพานข้ามคลองห้วยกรวด
+1248005288,tele_waterlevel,บ้านบุ่งอ้ายเจี้ยม
+1248017479,tele_waterlevel,สะพานข้ามห้วยแม่รวม บ้านแม่รวม
+1247897437,tele_waterlevel,บ้านหลุมดิน
+1248017473,tele_waterlevel,สะพานแม่น้ำลาว
+1248017531,tele_waterlevel,คลองเบตง (ชุมชนกุนุงจนอง)
+1248005169,tele_waterlevel,สะพานคลองสะตอ
+1248017465,tele_waterlevel,สะพานข้ามคลองหวาด
+1247897468,tele_waterlevel,บ้านนิคม
+1248017535,tele_waterlevel,สะพานคลองจันทเขลม
+1248017471,tele_waterlevel,สะพานข้ามแม่น้ำปัตตานี
+1247754846,tele_waterlevel,พิชัย
+1248017496,tele_waterlevel,คลองแม่รำพัน 1
+1248017453,tele_waterlevel,ลำน้ำกูน
+1248017484,tele_waterlevel,สะพานน้ำแม่สา
+1248017513,tele_waterlevel,สะพานน้ำแม่คะ 
+1248017895,tele_waterlevel,สะพานหนองจิก-วังปลา
+1248017494,tele_waterlevel,สะพานห้วยแม่ถาบ้านปาหุ่ง
+1248018065,tele_waterlevel,สะพานอิงอุดม
+1247993390,tele_waterlevel,บ้านโพรงเข้
+1248018037,tele_waterlevel,สะพานแม่วงก์
+1247999050,tele_waterlevel,ห้วยแม่มอก
+1248017879,tele_waterlevel,เมืองอุตรดิตถ์
+1248017495,tele_waterlevel,สะพานน้ำมวบ บ้านน้ำมวบ
+1248017503,tele_waterlevel,สะพานน้ำแม่ต๋อม
+1248017717,tele_waterlevel,ห้วยผาตั้ง
+1248014599,tele_waterlevel,ชุมชนประชาบำรุง
+1248017927,tele_waterlevel,สะพานข้ามแม่น้ำยมสายเก่า-วัดปากน้ำ
+1248017929,tele_waterlevel,สะพานข้ามคลองไชยา
+1248018083,tele_waterlevel,เสนา (ทุ่งบางบาล-บ้านแพน)
+1248017877,tele_waterlevel,เวียงสา
+1248017911,tele_waterlevel,คลองสามบาท บ้านกุดพิมาน
+1248017882,tele_waterlevel,ตรอน
+1248011338,tele_waterlevel,บ้านวังปลัด
+1247928819,tele_waterlevel,บ้านท่าโป่งแดง
+1247993395,tele_waterlevel,บ้านเขาน้อย
+1247993381,tele_waterlevel,บ้านหนองหญ้าปล้อง
+1247993380,tele_waterlevel,บ้านกลาง
+1248015746,tele_waterlevel,ฝายละแอ อ.บันนังสตา จ.ยะลา
+1247993394,tele_waterlevel,บ้านทุ่งแฝก
+1248018054,tele_waterlevel,โรงเรียนวัดโคกโพธิ์สถิตย์
+1248000097,tele_waterlevel,บ้านป่าขะ
+1248007771,tele_waterlevel,เขื่อนบางลาง อ.บันนังสตา จ.ยะลา
+1247490369,tele_waterlevel,บ้านเจดีย์งาม

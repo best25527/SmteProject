@@ -12,8 +12,8 @@ from datetime import datetime
 user_states = {}
 
 # ================= CONFIG =================
-CHANNEL_ACCESS_TOKEN = os.getenv("CHANNEL_ACCESS_TOKEN")
-CHANNEL_SECRET = os.getenv("CHANNEL_SECRET")
+CHANNEL_ACCESS_TOKEN = 'wnsTqaDAsIrH4ji3xwbYDLRk0B/SmOeJ1RSbrStvgnvif+b1yMdRYvvnXJU69LmEfYa27g0OyEj4mEbNxnnDlJdaEaDpLLuDiUVLG/rPhSB3rPfC5uz38kEm4vVyQPx/yTIiJjOWpl7aCZyGeJNHkgdB04t89/1O/w1cDnyilFU='
+CHANNEL_SECRET = '8f589c689f6e385203791151355b9ab6'
 DATA_FILE = "thaiwater_wl.json"
 # =========================================
 
